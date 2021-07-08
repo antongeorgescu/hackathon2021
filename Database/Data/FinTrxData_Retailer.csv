@@ -1,0 +1,1273 @@
+ID,Name,CategoryID
+1,Sephora,9
+2,Purdy's Chocolates,9
+3,Taverna,8
+4,Stokes,9
+5,Solly's,8
+6,Staples,9
+7,Arby's,8
+8,Wendy's,8
+9,Italian Bakery,5
+10,Sugar & Spice,9
+11,Shop Rite,1
+12,Cleo,9
+13,Swiss Chalet,8
+14,Highland Farms,5
+15,Grand Lux Cafe,8
+16,Spago,8
+17,Antica Pizzeria,8
+18,Super Save Gas,3
+19,Tilted Kilt,8
+20,Save On Foods,5
+21,Roti Palace,8
+22,Indian Sweets,8
+23,I Herb,1
+24,Sirens,9
+25,Macsushi,8
+26,Taco Time,8
+27,Target Park,9
+28,Midi Thai,8
+29,Ingles Markets Inc.,5
+30,Panago Pizza,8
+31,Michael's,9
+32,Blenz Coffee,8
+33,Mobil,3
+34,Tru Value,5
+35,Quality Meats &amp; Deli,5
+36,Hec Montreal,9
+37,Cadillac,9
+38,My Sushi,8
+39,Chipotle,8
+40,Tumi,9
+41,Tops Fuel,3
+42,Supplement King,1
+43,Hudson's Bay,9
+44,Marshalls,7
+45,Jollibee,8
+46,True Religion,7
+47,Diner Deluxe,8
+48,Hockey Sushi,8
+49,COUNTRY MEADOWS GOLF C,8
+50,Beachbody,9
+51,Fresh Rolls Restaurant,8
+52,Leon's,9
+53,Crystal Buffet,8
+54,Khao Thai Restaurant,8
+55,Swimco,9
+56,Lee Restaurant,8
+57,Hertz,9
+58,Nickels Restaurant,8
+59,Big Eddy Pub,3
+60,Fionn MacCool's,8
+61,Golden Chicken,8
+62,Daisy Mart,9
+63,Waring House,8
+64,Spotify,9
+65,Strada,8
+66,Topper's Pizza,8
+67,Silver Stream Farms,5
+68,Melanie Lyne,9
+69,Foodworld,5
+70,Hollister,7
+71,Natural Foods,5
+72,Macy's,9
+73,Great Canadian Bagel,8
+74,Giovanni's,8
+75,Planet Fitness,9
+76,Fred Meyer Stores,5
+77,Sushi Go,8
+78,Seneca,10
+79,Union Station,9
+80,Sunset Grill,8
+81,Imperial Meats,8
+82,China House,8
+83,Softmoc,9
+84,Jimmy Buffett's,8
+85,Northern Reflections,7
+86,Zipcar,9
+87,Just Hockey,9
+88,Irish Pub,8
+89,Halcyon Hot Springs,9
+90,Perfect Plate,8
+91,Ruth's,5
+92,Toytown,9
+93,La Fiesta,8
+94,Rite Aid,4
+95,bureau en gros,9
+96,Body Shop,9
+97,Korean House,8
+98,Goodness Me,5
+99,Viet Thai,8
+100,Laughing Buddha,8
+101,Go4 Greek,8
+102,B &amp; T Restaurant,8
+103,Lids,9
+104,Sam's Food Stores,9
+105,Critter Jungle,9
+106,Starbucks,1
+107,Market Fresh,5
+108,Milestones Grill & Bar,8
+109,Outback Steakhouse,8
+110,Restaurant Basha,8
+111,Smoke's Poutinerie,8
+112,Reid's Dairy,5
+113,Once Upon A Child,9
+114,Carl's Jr,8
+115,Structube,9
+116,Tender Greens,8
+117,Cartier,5
+118,La Maison Smith,8
+119,Jungle Jim's,8
+120,Valu Mart,5
+121,T Booth,9
+122,Food Depot,5
+123,Sunny Dragon Restaurant,8
+124,Great West Life,9
+125,Xi'an Famous Foods,8
+126,East Side Mario's,8
+127,Sakura Sushi,8
+128,Pizza Pizza,8
+129,Firehouse Subs,8
+130,Arepa Cafe,8
+131,Gourmet Express,5
+132,Mayfair,9
+133,Sunrise Records,9
+134,Wacky Wings,8
+135,Rocco's,5
+136,Simons,9
+137,Spotless Dry Clearners,9
+138,Lawson,3
+139,Brandy Melville,9
+140,Nando's,8
+141,Manchu Wok,8
+142,Udupi Palace,8
+143,Bamiyan Kabob,8
+144,Olive Garden,8
+145,Moguls Coffee House,8
+146,Country Mart,9
+147,Mr Greek,8
+148,Anytime Fitness,9
+149,Oxxo,1
+150,Golden Star,8
+151,Unit Park,9
+152,Foodora,1
+153,BEECHWOOD GOLF & COUNT,8
+154,Saje Natural Wellness Canada,9
+155,Koodo Mobile,9
+156,Mount Royal Pizza,8
+157,Double Pizza,8
+158,Air Asia,9
+159,Hooters,8
+160,Public Storage,9
+161,San Korean Restaurant,8
+162,McDonald's,8
+163,Gino's Pizza,8
+164,Farmacia,4
+165,Famous Wok,8
+166,Yum Yum,8
+167,Hickory Farms,1
+168,Nature's Fare Market,5
+169,Rexall,4
+170,Chevron,3
+171,Brioche Doree,8
+172,Pizza Depot,8
+173,Davids Tea,1
+174,Lululemon,9
+175,Galaxie Diner,8
+176,Fairmont,9
+177,Brixton's,8
+178,Park Inn,8
+179,Japan Buffet,8
+180,Fenwick,9
+181,Diva Petroleum,3
+182,Bangkok Groceries,5
+183,The Lego Store,9
+184,Tommy Hilfiger,7
+185,Jysk,9
+186,Intersport,9
+187,Jimmy G's,9
+188,Blue Sky,5
+189,Cosmopolitan,8
+190,China Palace,8
+191,Holt Renfrew,9
+192,Stone Crock Bakery,5
+193,Econo Lodge,9
+194,China Star,8
+195,Jewel Osco,5
+196,Soup It Up,8
+197,Congee Queen,8
+198,Molly Maid,9
+199,Fortino's,5
+200,Tops Markets,5
+201,The Chamois,9
+202,Sugar Mountain,9
+203,Lego,9
+204,The Brickhouse In Brick Lane,8
+205,Boucherie,5
+206,Armani Exchange,7
+207,Jamestown Milk,9
+208,Triple O's,8
+209,Mini Markets,9
+210,Medieval Times,8
+211,Wawa Inc,3
+212,Lyft,6
+213,Sprouts,5
+214,Burger Baron,8
+215,Chowon Family Restaurant,8
+216,Naturalizer,9
+217,Motherhood,9
+218,Salvatore Ferragamo,7
+219,Mc Graw Hill,10
+220,Rainbow Foods,5
+221,Quicken,9
+222,Mary Brown's,8
+223,Walmart,5
+224,Saint Laurent,9
+225,Dave's Diner,8
+226,Coffee Tree,1
+227,Thai One,8
+228,Hopper,9
+229,Hallmark,9
+230,Evo Car Share,9
+231,Ned Devine's,8
+232,Le Gourmand Cafe,8
+233,Aritzia,9
+234,Yoox,9
+235,Intuit,9
+236,Children's Place,9
+237,99 Cents Only Stores,5
+238,Five Guys,8
+239,Intermarche,5
+240,Garden Restaurant,8
+241,BookIt,9
+242,Hulu,2
+243,Red Lobster,8
+244,Thai Bistro,8
+245,Shoppers Drug Mart,4
+246,Milk Mart,9
+247,Hasty Market Corp,9
+248,Momo Sushi,8
+249,Fat Tuesday Beach Place,8
+250,Mr Shawarma,8
+251,La Castile,8
+252,Red Rooster,5
+253,Bouclair,9
+254,Lola's,1
+255,Chef's Plate,1
+256,Pinkberry,8
+257,Quik Shop,1
+258,Priceline,9
+259,Mountain Equipment Co-Op,9
+260,Jang Mo Jib,8
+261,Imax Theaters And Planetarium,8
+262,CAA,9
+263,Burger King,8
+264,Marc's,5
+265,Mine Sushi,8
+266,Kaspersky Lab,9
+267,Echoage,9
+268,Aldi,5
+269,Chapters,10
+270,TERRA NOVA GOLF RESORT,9
+271,Ka Chi,8
+272,Jack's,8
+273,Big Y,5
+274,Barque Smokehouse,8
+275,Shefield Express,1
+276,Taxi Montreal Express,6
+277,Car2go,9
+278,ClassPass,9
+279,Salty's,8
+280,Jug City,9
+281,Apple,9
+282,Chez Lucien,8
+283,Penelope Restaurant,8
+284,Sac Wich,8
+285,India Bazaar,5
+286,The Bull,8
+287,Baton Rouge Restaurant,8
+288,Bellagio,8
+289,North Shore Taxi,6
+290,Nespresso,1
+291,Square Enix,9
+292,Taste Of India,8
+293,Fabbrica,5
+294,Vanelli's,8
+295,Jazzercise,9
+296,Asian Gourmet,8
+297,Nordstrom,9
+298,GNC,1
+299,Mrs. Tiggy Winkle's,9
+300,CSV Pharmacy,4
+301,T &amp; T Supermarket Inc.,5
+302,Little Italy,8
+303,Pizza Hut,8
+304,Fas Gas,3
+305,WinCo foods,5
+306,Reuters.Com,9
+307,Le Pain Quotidien,8
+308,Westin Harbour Castle,8
+309,Ming's Buffet &amp; Grill,8
+310,Mona Fine Foods,5
+311,Royal Caribbean,8
+312,Heritage Pancake House,8
+313,Forever 21,9
+314,Cogeco,2
+315,Mark's,7
+316,Maceys,8
+317,China Wok,1
+318,All Taxi Management,6
+319,Barre Belle,9
+320,Levi's,7
+321,Clay Oven,8
+322,Primus,9
+323,Taxitab,6
+324,Szechuan Szechuan,8
+325,Pumpernickel's,8
+326,Pho Mi 99,8
+327,State &amp; Main,8
+328,Unicef,9
+329,Homesense,7
+330,Four Seasons,8
+331,O Sho Japanese Restaurant,8
+332,Petro-Canada,3
+333,humane sociey,9
+334,Lowe's,9
+335,Produce Depot,5
+336,Ginger,8
+337,La Belle Province,8
+338,Trading Post,1
+339,Mercedes Benz,9
+340,Akira Japanese Cuisine,8
+341,Penguin Pickup Market,1
+342,Fossil Inc.,9
+343,Isagenix,9
+344,York University,9
+345,Il Negozio Nicastro,5
+346,Anoush Middle Eastern Cuisine,8
+347,Ardene,9
+348,Avast,9
+349,Flashback Diner,8
+350,Uline,9
+351,Creperie,8
+352,Flying Pizza,8
+353,Famous Footwear,8
+354,Anthropologie,7
+355,Giorgio's,5
+356,Lick's Homeburgers,8
+357,T Mobile,9
+358,Asos,7
+359,National Access Cannabis,4
+360,P.F. Chang's,8
+361,Planet Organic,5
+362,Pizza Nova,8
+363,Pauls Pizza,8
+364,Winners,7
+365,Koreana Restaurant,8
+366,Blue Banana,9
+367,Wok Box,8
+368,Mc Afee,9
+369,Aeropostale Inc.,9
+370,Daily Grind,8
+371,Bellissimo,8
+372,Stop N Go,3
+373,Montana's Cook House &amp; Bar,8
+374,India Town Food Center,5
+375,Boni Soir,1
+376,10 Buck Pizza,8
+377,Hello Fresh,1
+378,Bella Pizza,8
+379,VRBO,9
+380,Linkedin,9
+381,Quynh Nhi,8
+382,Shawarma Castle,8
+383,Bombay Palace,8
+384,United Airlines,9
+385,WineOnline.ca,9
+386,Robin's Donuts,8
+387,Super Convenience,1
+388,Kailash Parbat Catering Services,8
+389,Koho Food Services Ltd,8
+390,Sizzler,8
+391,Sushi Hour,9
+392,David's Bridal,9
+393,Flo's Diner,8
+394,Harbor Freight Tools,9
+395,Giant Eagle Inc,5
+396,Polynesian Cultural Center,9
+397,Welland Cafe,1
+398,R C Food Market,5
+399,Dollar General Store,9
+400,Free Flow Petroleum,3
+401,Johnston &amp; Murphy,9
+402,Popeye's Supplements,1
+403,Desert Cab,6
+404,Lush,8
+405,Zumiez,9
+406,Your Good Health Store,1
+407,Hamilton Beach Brands Inc,9
+408,Tesco,5
+409,GAP Kids,7
+410,Sun Sushi,8
+411,Urban Barn,9
+412,Toys R Us,9
+413,Yummy Pho,8
+414,Petit Dejeuner,8
+415,Five Below,9
+416,The Economist Newspaper,9
+417,Willy's Pizza,8
+418,Thai Express,8
+419,Power To Change,10
+420,Crepe Delicious,8
+421,independent Pharmacy,4
+422,Horn Of Plenty Market,8
+423,Krispy Kreme Doughnut Corporation,8
+424,Under Armour,9
+425,StubHub,9
+426,Ming Room,8
+427,Fresh,5
+428,Java U,9
+429,Mmmuffins,8
+430,Menchie's Frozen Yogurt,9
+431,Holy Cow,8
+432,Durham College,9
+433,Red Rocket Coffee,8
+434,Banana Republic,7
+435,Maritime Bus,9
+436,Foodland,5
+437,Royal Shawarma,8
+438,Call It Spring,9
+439,La Pizza,8
+440,Lily Thai Restaurant,8
+441,La Luna Restaurant,9
+442,Domino's Pizza,8
+443,Westin,8
+444,Shell,3
+445,Lucky Supermarket,5
+446,National Post Inc,9
+447,Sportswear,9
+448,Bocca Restaurant &amp; Bar,8
+449,Pharma Sense,4
+450,Boston Pizza,8
+451,Famous Famiglia,8
+452,Mr. Sub,8
+453,Timothy's World Coffee,8
+454,Mandarin Restaurant,8
+455,Circle K,3
+456,Ali Baba,8
+457,Tea &amp; Ginseng,8
+458,Town &amp; Country Market,5
+459,Barney's Pizza,8
+460,Remark Fresh Markets,5
+461,Hero Certified Burgers,8
+462,Lucky Dollar,5
+463,GAP,7
+464,Super Food,1
+465,Inspire Restaurant,8
+466,Vietnamese Cuisine,8
+467,Colony Main,8
+468,Melaleuca,1
+469,World Gym,9
+470,Joe Dog's,9
+471,West49,9
+472,Granville Island,8
+473,Uniprix,4
+474,Mastermind Toys,9
+475,Canopy Growth,4
+476,Club 200,8
+477,Fort Supermarket Ltd,5
+478,Lucky Dragon,8
+479,Moxie's Grill Bar,8
+480,Carter's,7
+481,Yellow Cab Co,6
+482,Super Fresh,5
+483,Vineyards,9
+484,Captain George,8
+485,Metro,5
+486,The Ballroom,8
+487,Big Bone Bbq,8
+488,Edible Arrangements,9
+489,Table 51,8
+490,Pancake House,8
+491,Massimo Dutti,9
+492,Fabricland,9
+493,Dim Sum King,8
+494,Korean Village Restaurant,8
+495,Hopscotch,9
+496,Bodybuilding.Com,1
+497,Wok Express,8
+498,Yam Chops,5
+499,Squarespace,9
+500,Commissos Fresh Foods,5
+501,Fiesta Farms Inc,5
+502,Canada's Wonderland,9
+503,Moving Help,9
+504,Aviva,8
+505,Golden Dragon,8
+506,Easy Park,9
+507,Little Short Stop Stores,9
+508,Home Hardware,9
+509,Sarker Foods,5
+510,Bidgood's,5
+511,Mongo's Grill,8
+512,Original Pizza,8
+513,Husky,3
+514,The Boardwalk,8
+515,Acura,9
+516,Wally's,8
+517,Abercrombie Kids,7
+518,Intact Insurance,8
+519,Daiso,9
+520,Jiffy Lube,9
+521,Loblaws,5
+522,Yang Sheng Restaurant,8
+523,Pita Pit,8
+524,Kitchen Stuff Plus,9
+525,GOLF CLUB,9
+526,Jockey,9
+527,On The Run,3
+528,Baskin Robbins,8
+529,Ciao,8
+530,Vans,9
+531,Pasta Fresca,8
+532,Blaze Pizza,8
+533,Dulux Paints,9
+534,Queen's Pasta,8
+535,Bonny's Taxi,6
+536,DoorDash,8
+537,Sobeys,5
+538,Fidelity Investments,9
+539,Rona,9
+540,The Beer Store,9
+541,Loews Hotels,8
+542,Regal Cinemas,9
+543,Delta 9 Cannabis,4
+544,House Of Blues,8
+545,Margaritaville,8
+546,Crabby Joe's,8
+547,Lemongrass,8
+548,Man Doo Hyang,8
+549,Mr Gas,3
+550,United Way,9
+551,Pho Vietnam,8
+552,IKEA,9
+553,Party City,9
+554,Gilt Groupe,8
+555,Woody's,9
+556,Kroger,5
+557,The Coffee Bean,8
+558,Pearl Court Restaurant,8
+559,Longo's,5
+560,Magasin,3
+561,Costco Gas,3
+562,Ferraro Restaurant,5
+563,Young Fruit Market,5
+564,Malton Sweets,8
+565,Life Time Fitness,9
+566,Asian Cuisine,8
+567,Altitude Sports,9
+568,Sushi House,8
+569,Solo Liquor Store,9
+570,Airbnb,9
+571,Coppola's Ristorante,8
+572,Pizza Hotline,8
+573,Cuisine Of India,8
+574,Premiere Moisson,1
+575,Bella Gelateria,1
+576,Star Noodle,8
+577,McEwan,5
+578,Delta Air Lines,9
+579,Langdon Hall,9
+580,Kung Fu Tea,8
+581,Green Roof Gas Bar,3
+582,Steam Games,9
+583,Pizza Italie,8
+584,Urban Crave,8
+585,Marie's Mini Mart,9
+586,Saks Off 5th,9
+587,Black Dog Bistro,8
+588,Riot Games,9
+589,Urban Herbivore,8
+590,Puccini's,8
+591,Pi Co. ,8
+592,Pet Valu,9
+593,B2,6
+594,Mac,9
+595,Grab N' Go,9
+596,H&M,7
+597,Plaza Food Mart,1
+598,La Belle Verte,1
+599,Emirates,8
+600,WestJet,8
+601,Top Choice,8
+602,House Of Fraser,9
+603,Irene's,8
+604,Sporting Life,9
+605,Lucky Brand,7
+606,Rendez Vous Cafe,8
+607,Pancho's,8
+608,Sky Dragon Chinese Restaurant,8
+609,Subway,8
+610,Joelle's,9
+611,Blue Nile,5
+612,Michinoku,8
+613,Vons,5
+614,Okinawa Sushi,8
+615,Minar,8
+616,Go Transit,9
+617,Big Bowl,8
+618,Local On 8Th Ave,8
+619,Pizzaville,8
+620,Champion Pizza,8
+621,Atlas Pizza,8
+622,Réno-Dépôt,9
+623,Little India,8
+624,Komfort Kitchen,8
+625,University Of Toronto,10
+626,Bar Louie,8
+627,Property Tax,9
+628,Eggspectation,8
+629,Seoul House,8
+630,Ultramar Ltd,3
+631,Netflix,2
+632,Beavertails,8
+633,Peking Restaurant,8
+634,Kin's Farm Market,5
+635,The 3 Brewers,8
+636,Kwik Way,5
+637,Wing Machine,9
+638,Aliments Merci,5
+639,Chrysler Group,9
+640,Jade Restaurant,8
+641,Hamilton Grocery,5
+642,Just-Eat,1
+643,Running Room Canada Inc.,9
+644,Gymboree,9
+645,Polo Ralph Lauren Factory Store,9
+646,Beaches Natural Foods,1
+647,Lambert Oil Ltd,3
+648,Oakes Farms,5
+649,Fernie Mountain Spirits,9
+650,Milano,8
+651,Dolce Vita,8
+652,Min A Mart,9
+653,D S Pizza,8
+654,Foresters,9
+655,Wild Wing,8
+656,The Clubhouse,8
+657,Roti Hut,8
+658,Canada Post,9
+659,WITHIN RANGE GOLF CENT,9
+660,Star Market,8
+661,Wagjag,9
+662,CraveTv,9
+663,Shiraz Market,5
+664,Princess,9
+665,Pizza Plateau,8
+666,Intercontinental,8
+667,Nissan,9
+668,Dark Horse,8
+669,Jack In The Box,9
+670,Bulk Barn Foods Limited,1
+671,Taro's Fish,1
+672,Neiman Marcus,9
+673,Tweed,4
+674,Summerhill Market,5
+675,PlayStation Network,9
+676,Etihad Airways,9
+677,Merle Norman,9
+678,Royal Variety,9
+679,Fabfitfun,9
+680,GM Financial: Auto Loan Financing &amp; Leases,8
+681,Home Outfitters,9
+682,Mount Royal University,9
+683,NORTHLANDS GOLF COURSE,9
+684,Lee Valley Tools,9
+685,Villa Madina,8
+686,Wine Rack,9
+687,Mercadona,5
+688,Becker's,9
+689,Coffee Culture,8
+690,Pizza Place,8
+691,The Home Depot,9
+692,Chilangos,8
+693,Cracker Barrel,8
+694,Buffalo Wild Wings,8
+695,The Chopped Leaf,8
+696,Pizzedelic,8
+697,Scholar's Choice,9
+698,Disneyland,9
+699,Noodle Express,8
+700,Upper Crust,1
+701,Aubainerie,7
+702,OAK GABLES GOLF CLUB,9
+703,Wagamama,8
+704,S Mart,5
+705,Candlewood Suites Boston Burlington,9
+706,Penningtons,9
+707,Patty Boland's,8
+708,Loonie Plus Stores,9
+709,Duffy's Tavern And Motor Inn,8
+710,Beck Taxi,6
+711,LensCrafters Inc,9
+712,Bruno's Fine Foods,5
+713,Chocolate Sensations,9
+714,Cobs Bread Clayton's Crossing,1
+715,JetBlue,8
+716,Rabba Fine Foods,5
+717,Auntie Anne's,8
+718,Duanereade,4
+719,Country Corner,5
+720,Speedy Auto Service,9
+721,Taco Bell,8
+722,Halibut House,8
+723,Axia Cafe,8
+724,Sega,9
+725,Steve Madden,9
+726,Scouts Canada,9
+727,Hawgs Breath Saloon,8
+728,Moores,9
+729,La Guardia Usa Llc,8
+730,Mongolian Hot Pot,8
+731,Family Express,3
+732,Old Navy,7
+733,Hibachi Grill,8
+734,Freshii,8
+735,Ritorno,8
+736,Local Sherwood Park,8
+737,Au Vieux Duluth Restaurant,8
+738,San Remo,5
+739,Shopbop.Com,9
+740,Mondou,9
+741,Au Pain Dore Bakery,9
+742,La Carnita,8
+743,ROYAL OAKS GOLF CLUB,8
+744,TELUS,9
+745,Ezra's Pound,8
+746,Pho Binh Minh,8
+747,Sheraton Hotels  Inc,8
+748,Piccolo Grande,1
+749,Creative Bag Toronto,9
+750,Caplansky’s Deli,8
+751,Jeunesse,9
+752,Loobies,8
+753,Noodle King,8
+754,Avon,9
+755,Zulily,9
+756,Wireless Wave,9
+757,Body Works,9
+758,Luca Pizza,8
+759,Zehrs,5
+760,Smashburger,8
+761,Country Grocer.,5
+762,Budget,9
+763,Smith's Markets Inc,5
+764,Kinki,8
+765,Ogilvie Pizza,8
+766,Wayfair,9
+767,Ju Ju Be,8
+768,Fatburger,8
+769,The Keg Steakhouse & Bar,8
+770,Marcello's,5
+771,Tallest Poppy,8
+772,Value Village,9
+773,Amazon,10
+774,Popeye's Louisiana Kitchen,8
+775,King Pizza,8
+776,Minor Fisheries Ltd,8
+777,Philz Coffee,8
+778,Shanghai Restaurant,8
+779,Esso,3
+780,Coppa's Fresh Market,5
+781,Danforth Food Market,5
+782,Well.ca Inc,9
+783,Thai Tamarind,8
+784,Colette,8
+785,Globus,5
+786,Bootleggers,8
+787,HarbourFront,4
+788,Le Saint Bock,8
+789,Clarks,5
+790,Ruby Thai,8
+791,Sutherland Chan School &amp; Teaching Clinic,9
+792,Sumo Ramen,8
+793,Beauty Boutique,4
+794,Coffee Time,8
+795,NUNA GOLF,8
+796,Paul's Kitchen,8
+797,Payless ShoeSource,9
+798,Chevrolet,9
+799,Delice,8
+800,Aldo,9
+801,Campbell Variety,9
+802,Lulus Fashion Lounge,5
+803,Rogers' Chocolates,9
+804,Fresh Express Fine Foods,5
+805,Sask Tel,9
+806,Copper Branch,8
+807,Le Chateau,8
+808,Booster Juice,8
+809,Zara Home,9
+810,International News,9
+811,Panda Express,8
+812,Rosies,8
+813,Rw &amp; Co,9
+814,Tim Hortons,8
+815,Ticketmaster,9
+816,Videotron,2
+817,Dairy Freeze,8
+818,Decadent Desserts,8
+819,Dollar Tree Inc.,9
+820,Sail,7
+821,Not Just Steaks,5
+822,Sen Sushi,8
+823,Sushi Ka,8
+824,Country Road,9
+825,Wine Cellars,9
+826,Troy's Diner Inc,8
+827,Thai Delight,8
+828,Thai Cuisine,8
+829,House Of Wings,8
+830,Inabuggy,9
+831,Red House,8
+832,Sport-Chek International,9
+833,Nathan's,8
+834,Lindt &amp; Sprungli's,9
+835,Mercato,8
+836,Mamma's Pizza,8
+837,Om India Food Centre,5
+838,Swirls Ice Cream,8
+839,Okcupid,9
+840,Texaco,3
+841,Brazen Head,8
+842,Ottway,1
+843,Firkin Pubs,8
+844,Place Tevere,8
+845,Flying Pig,8
+846,Country Style,8
+847,Tea Hut,8
+848,Pizzaiolo,8
+849,Monastery Baker,5
+850,Guess,7
+851,Bagel Stop,8
+852,Hotstar,9
+853,Dixie Lee,8
+854,Manpuku,8
+855,Econo Pizza,8
+856,The Honest Company,9
+857,Caribbean Corner,5
+858,Tully's Coffee,1
+859,Laird Convenience,9
+860,La Baguette,8
+861,Sheridan College,9
+862,Dynamite,9
+863,Sushi Gen,8
+864,Market Grill,8
+865,Harvey's,8
+866,Pharmasave,4
+867,Stella's Cafe,8
+868,Waffle House,8
+869,Shakey's,8
+870,Cinnabon,8
+871,DHL,9
+872,Love's Travel Stops,3
+873,U Haul,9
+874,Ren's Pets,9
+875,Ripley's,9
+876,Old Spaghetti Factory,8
+877,Price Chopper,5
+878,Primark,7
+879,Crown Taxi,6
+880,Free People,7
+881,Taxi Service,6
+882,Carnival,9
+883,City Supermarket,5
+884,L.L.BeanInc.,8
+885,Trattoria Nervosa,8
+886,Checker Cabs Ltd,6
+887,Canadian Tire Store,9
+888,Indigo,10
+889,Taste Of Mediterranean,8
+890,Cabela's,9
+891,I Love Pho',8
+892,Valentino,9
+893,Magnolia Bakery,8
+894,Zarkys,5
+895,Money Mart,9
+896,Spiceland,5
+897,Wine.Com,9
+898,Wwf,9
+899,Marks &amp; Spencer,9
+900,B. &amp; T Food,5
+901,La Senza,9
+902,Michael Kors,9
+903,Szechuan Express,8
+904,Kate Spade New York,9
+905,Browns,8
+906,Free Times Cafe,8
+907,Shawarma House,8
+908,Road House Bar &amp; Grill,8
+909,Mama Mia's,8
+910,Farm Boy,5
+911,The Grocery Store,5
+912,The Barking Frog,8
+913,Stratengers,8
+914,Cibo,8
+915,Saigon House Restaurant,8
+916,Bershka,7
+917,Digicel,9
+918,Basha Restaurant,8
+919,Rogers,2
+920,Spicy House,8
+921,India Village Restaurant,8
+922,Thai Chef,8
+923,The Boathouse Restaurant,8
+924,Jimmy John's,8
+925,Tommy Bahama,7
+926,S Trip,3
+927,Whole Foods,5
+928,Red Robin,8
+929,Bc Liquor Stores,9
+930,Encore,3
+931,Moncton Superstore,5
+932,Ho Ho Restaurant,8
+933,Indian Flavour,8
+934,Bistro On Main,8
+935,Mac's Convenience Store,9
+936,Barburrito,8
+937,Extreme Pita,8
+938,Denny's Restaurant,8
+939,D's Diner,8
+940,Pharmacie,4
+941,Little Caesars,8
+942,I Deal Coffee,8
+943,Joeys,8
+944,Geeland Baguio Store,5
+945,Bombay Grocers,5
+946,Salad Thai,8
+947,Louie's Classic Pizza,8
+948,Nilgiris,8
+949,Cityfone,9
+950,Mains Mansion,8
+951,Olly Fresco's,8
+952,Bar Plus,9
+953,Nationwide,9
+954,All Star Wings &amp; Ribs,8
+955,I G A,5
+956,Grill It Up,8
+957,Do Terra,1
+958,Quiznos,8
+959,Kingyo,8
+960,Factory Direct.Ca,9
+961,Fresh Co.,5
+962,La Fitness,9
+963,K Variety,9
+964,Centennial College,9
+965,King Palace Restaurant,8
+966,Chick Fil A,8
+967,Microsoft,9
+968,Cold Stone,8
+969,La Prep,8
+970,Barnes &amp; Noble,9
+971,Mazda,9
+972,Petco's,9
+973,Vietnamese Restaurant,8
+974,Paesano Pizza,8
+975,Pizza 3000,8
+976,Clinique.,9
+977,Tea Store,1
+978,Lee Garden Restaurant,8
+979,Scholastic Canada Ltd.,10
+980,Thai Island Restaurant,8
+981,Qdoba Mexican Grill,8
+982,Fresh Grill,8
+983,Canalside Pub &amp; Eatery,8
+984,Pho Dau Bo,8
+985,Victoria Inn,9
+986,KAUFLAND,5
+987,Grapefruit Moon,8
+988,Bon Appetit,8
+989,Pizza Plus,8
+990,South St Burger Co,8
+991,DEVON GOLF AND CC,9
+992,Selfridges,9
+993,Wing House,8
+994,Starwood,9
+995,Abbas Grocery,1
+996,Gabriel Pizza,8
+997,Gucci,7
+998,Zen Gardens,8
+999,Noodle Box,8
+1000,Little Blue House,7
+1001,Bridgehead,1
+1002,J.Crew,9
+1003,Red Lantern Cottage,8
+1004,A&W,8
+1005,Lidl,5
+1006,PetSmart,9
+1007,Queen Donair,8
+1008,Part Source,9
+1009,Hot Stacks,8
+1010,Tapp Car,6
+1011,Orkin,9
+1012,Sushi Shop,8
+1013,Samsung,9
+1014,Dollar Store,9
+1015,Pizza Pub,8
+1016,Yummy Yummy,8
+1017,Global Pet Foods,9
+1018,H Mart,5
+1019,Bulk Barrel Inc,5
+1020,Fika,8
+1021,Rivers Restaurant,8
+1022,Halal Meat Shop,5
+1023,Billabong,9
+1024,Mrs. McGarrigle's Fine Food Shop,1
+1025,Freshslice Pizza,8
+1026,Z Teca,8
+1027,Pho 88 Vietnamese Restaurant,8
+1028,Chico's,8
+1029,Coach,8
+1030,Beauty Bar,9
+1031,Tiki Sushi,8
+1032,Pretzelmaker,9
+1033,John Bbq Chicken Inc,8
+1034,China Court,8
+1035,I Love Sushi,8
+1036,Jazz Club,8
+1037,Total Wine &amp; More,9
+1038,Pho Bo Ga,8
+1039,Golden Palace,8
+1040,7 Eleven,3
+1041,Roots,7
+1042,Harris Teeter Inc,5
+1043,Metropolitan Grill,8
+1044,Fox &amp; Fiddle,8
+1045,Dairy Queen,9
+1046,Waitrose,5
+1047,Galaxy Cinemas,9
+1048,Midi Bistro,8
+1049,Maplelea,9
+1050,Buy Buy Baby,9
+1051,Brault & Martineau,9
+1052,Fairweather,8
+1053,Best Buy,8
+1054,Quick Books,9
+1055,The Brick,9
+1056,Hyundai,9
+1057,Mary Maxim Inc,9
+1058,Loft,9
+1059,Tucker's Marketplace Restaurant,8
+1060,Katsuya,8
+1061,Mongolie Grill,8
+1062,Divino,8
+1063,Naples Pizza,8
+1064,Maxi,5
+1065,Gabby's,8
+1066,Bouchon,8
+1067,Kuo Hua Trading,5
+1068,Shake Shack,8
+1069,Parma Ravioli,1
+1070,Laura Secord,9
+1071,Mobilicity,9
+1072,Church's Chicken,8
+1073,Chilly Chiles,1
+1074,Pickle Barrel,8
+1075,Sweet Lulu,8
+1076,Freshly Squeezed,8
+1077,Cumbrae's,1
+1078,Meinhardt Fine Foods Inc,5
+1079,Akita Sushi,8
+1080,Texas Burger,8
+1081,Bench,9
+1082,Btrust Supermarket,5
+1083,Second Cup,8
+1084,Croissant Tree,8
+1085,Urban Outfitters,7
+1086,Van Heusen,7
+1087,Shawarma Plus,8
+1088,Cineplex Entertainment,9
+1089,The Grind,8
+1090,Ontario Cannabis Store,4
+1091,Umi Sushi Express,8
+1092,Mercatino,8
+1093,Duke Pubs,8
+1094,Dan Murphy's,9
+1095,Fresh Value Market,5
+1096,Field Of Greens,1
+1097,Pharmaprix,4
+1098,Nature's Emporium,5
+1099,Sukhothai,8
+1100,I Tunes,9
+1101,Skip The Dishes,8
+1102,Pita Nutso,8
+1103,Harrods,9
+1104,Petland,9
+1105,Lakeside Grill,8
+1106,E Park,5
+1107,Touro Churrascaria,8
+1108,Revive Superfoods,1
+1109,Kosy Korner,8
+1110,Blanchard's,3
+1111,Doris Family Produce,1
+1112,Big Bee,1
+1113,Saks Fifth Avenue,9
+1114,Pizzaway,8
+1115,Chefs Door,8
+1116,Breka Bakery &amp; Cafe Inc,9
+1117,Pearl Harbourfront Chinese Cuisine,8
+1118,Milano Pizza,8
+1119,The Fresh Market,5
+1120,Menard,5
+1121,Jimmy The Greek,8
+1122,Red Chillie,8
+1123,Urban Planet,9
+1124,Corks Restaurant,8
+1125,La Provence,8
+1126,The Children's Place,9
+1127,Havaris Produce,1
+1128,MacEwen Petroleum,8
+1129,Family Care Pharmacy,4
+1130,Sweet Dreams Teashop,8
+1131,Pita Land,8
+1132,WHITECOURT GOLF AND COUNT,9
+1133,Tonka Gas Bar,3
+1134,Uber,6
+1135,Urban Fare,5
+1136,Madewell,9
+1137,Pizza Express,8
+1138,Pho Do Thi,8
+1139,EBGames,9
+1140,National Sports,9
+1141,Coriander Green,8
+1142,Espresso Post,8
+1143,Grocery Gateway,5
+1144,Uniqlo,7
+1145,Sizzling Wok,8
+1146,Brown's Fine Foods,8
+1147,Cole Haan,9
+1148,So Good Restaurant,8
+1149,Toronto Zoo,9
+1150,Savoy,8
+1151,Nordstrom Rack,9
+1152,Little Saigon,8
+1153,Pizza Wings,8
+1154,Ticketfly Inc,9
+1155,No Frills,5
+1156,Claire's,9
+1157,Pegasus,9
+1158,Sam Woo,8
+1159,Roti Shop,8
+1160,National Car Rental,9
+1161,Sushi Bbq Inn,8
+1162,California Thai,8
+1163,Playdium,9
+1164,Bob Evans Restaurants,8
+1165,Pusateri's,5
+1166,Marriott,9
+1167,O Sushi,8
+1168,Corus,2
+1169,Campanile,4
+1170,The Alley,1
+1171,Memories Of Japan,8
+1172,Captain Ken's,8
+1173,Walgreens,4
+1174,Oriental Wok,8
+1175,Kona Grill,8
+1176,Kobo,10
+1177,Groupon Inc.,9
+1178,Publix Super Markets,5
+1179,Sushi Time,8
+1180,Atlantic Superstore,5
+1181,Sbarro,8
+1182,Hong Phat,1
+1183,Cottage Restaurant,8
+1184,Magic Oven,8
+1185,Xbox,9
+1186,Costco Wholesale,9
+1187,KFC,8
+1188,T.J. Maxx,7
+1189,Jean Coutu,4
+1190,Ben Thanh,8
+1191,Bravo Pizza,8
+1192,Quality Cheese Inc,9
+1193,Sonny's,9
+1194,Foodcourt,8
+1195,Gateway Restaurant,8
+1196,Stitches,9
+1197,Gateway Newstands,9
+1198,Urban Fresh,5
+1199,China Gourmet,8
+1200,Sugar King Factory,9
+1201,Safeway,5
+1202,BEECHWOOD GOLF & COUNTRY,8
+1203,Mrs. Fields,8
+1204,Lexus,9
+1205,Mythos,8
+1206,Golf Town,9
+1207,Quality Foods,5
+1208,Kramer's,8
+1209,Newegg Inc.,9
+1210,Pizza New York,8
+1211,Istanbul Kebab House,8
+1212,Bagel Cafe,8
+1213,Bel Air Taxi,6
+1214,Dutchies,5
+1215,Coles,10
+1216,Toronto Star,9
+1217,Costa Coffee,8
+1218,Supercell,9
+1219,Sushi Ya Japan,8
+1220,Crowne Plaza Hotel,9
+1221,U Naru Sushi,8
+1222,Harry's,5
+1223,Club Monaco,9
+1224,Aroma Espresso Bar,8
+1225,Muji,9
+1226,King's Pizza,8
+1227,Henry's Convenience,9
+1228,Rainforest Cafe,8
+1229,Goodwill,9
+1230,Zara,9
+1231,Hinote Sushi Restaurant,8
+1232,Airflight Services,6
+1233,Pita Express,8
+1234,Shawarma Station,8
+1235,Aramark,8
+1236,Maurices,9
+1237,Jack Astor's,8
+1238,Barney's,8
+1239,Sunoco,3
+1240,Bala Freshmart,5
+1241,Spin Dessert Cafe,8
+1242,Wegmans,5
+1243,Papa John's Pizza,8
+1244,Fit 4 Less,9
+1245,Disney Store,9
+1246,Dell Canada Inc,9
+1247,Chatr Wireless,9
+1248,Top Of The Hill Restaurant &amp; Brewery,3
+1249,Jimbo's,8
+1250,Ipsy,9
+1251,Fast Eddies Fun Center,8
+1252,Co Op Cabs,6
+1253,Pizza 73,8
+1254,Food Basics,5
+1255,Bell,9
+1256,Starsky,5
+1257,China Garden,8
+1258,Vimeo,2
+1259,Usmania,8
+1260,Twisted Fork,8
+1261,Bayview Variety,3
+1262,Jumbo Dragon,8
+1263,Royal India,5
+1264,Tito's Pizza,8
+1265,Star Wok,8
+1266,El Habanero Restaurant,8
+1267,Aerofleet Services,6
+1268,Mansion House,8
+1269,Wimpy's Diner,8
+1270,Dhaba,8
+1271,Enbridge Gas,10
+1272,Ontario Hydro,11

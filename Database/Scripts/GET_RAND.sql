@@ -1,0 +1,6 @@
+CREATE VIEW [dbo].[Get_RAND]
+AS
+SELECT RAND() AS MyRAND
+GO
+
+
