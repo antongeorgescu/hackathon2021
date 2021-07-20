@@ -1,13 +1,13 @@
-ID,Category,Description
-1,Entertainment,Entertainment
-2,Communications Services,Communications Services
-3,Gasoline Service Stations,Gasoline Service Stations
-4,Drug Stores and Proprietary Stores,Drug Stores and Proprietary Stores
-5,Grocery Stores,Grocery Stores
-6,Taxicabs,Taxicabs
-7,Family Clothing Stores,Family Clothing Stores
-8,Eating Places,Eating Places
-9,Other,Other
-10,Book Stores,Book Stores
-11,Utilities Heating,Utilities Heating
-12,Utilities Electricity,Utilities Electricity
+ID,Category,Description,GreenScore
+1,Entertainment,Entertainment,100
+2,Communications Services,Communications Services,100
+3,Gasoline Service Stations,Gasoline Service Stations,0
+4,Drug Stores and Proprietary Stores,Drug Stores and Proprietary Stores,100
+5,Grocery Stores,Grocery Stores,75
+6,Taxicabs,Taxicabs,0
+7,Family Clothing Stores,Family Clothing Stores,75
+8,Eating Places,Eating Places,100
+9,Other,Other,25
+10,Book Stores,Book Stores,15
+11,Utilities Heating,Utilities Heating,20
+12,Utilities Electricity,Utilities Electricity,20
