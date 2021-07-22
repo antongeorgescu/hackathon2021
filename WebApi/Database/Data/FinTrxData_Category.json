@@ -3,72 +3,72 @@
     "ID": 1,
     "Category": "Entertainment",
     "Description": "Entertainment",
-    "GreenScore": 100
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 2,
     "Category": "Communications Services",
     "Description": "Communications Services",
-    "GreenScore": 100
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 3,
     "Category": "Gasoline Service Stations",
     "Description": "Gasoline Service Stations",
-    "GreenScore": 0
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 4,
     "Category": "Drug Stores and Proprietary Stores",
     "Description": "Drug Stores and Proprietary Stores",
-    "GreenScore": 100
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 5,
     "Category": "Grocery Stores",
     "Description": "Grocery Stores",
-    "GreenScore": 75
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 6,
     "Category": "Taxicabs",
     "Description": "Taxicabs",
-    "GreenScore": 0
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 7,
     "Category": "Family Clothing Stores",
     "Description": "Family Clothing Stores",
-    "GreenScore": 75
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 8,
     "Category": "Eating Places",
     "Description": "Eating Places",
-    "GreenScore": 100
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 9,
     "Category": "Other",
     "Description": "Other",
-    "GreenScore": 25
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 10,
     "Category": "Book Stores",
     "Description": "Book Stores",
-    "GreenScore": 15
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 11,
     "Category": "Utilities Heating",
     "Description": "Utilities Heating",
-    "GreenScore": 20
+    "GreenPointsPerDollar": 0.2
   },
   {
     "ID": 12,
     "Category": "Utilities Electricity",
     "Description": "Utilities Electricity",
-    "GreenScore": 20
+    "GreenPointsPerDollar": 0.75
   }
 ]

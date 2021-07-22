@@ -2,6361 +2,7633 @@
   {
     "ID": 1,
     "Name": "Sephora",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 2,
     "Name": "Purdy's Chocolates",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 3,
     "Name": "Taverna",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 4,
     "Name": "Stokes",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 5,
     "Name": "Solly's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 6,
     "Name": "Staples",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 7,
     "Name": "Arby's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 8,
     "Name": "Wendy's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 9,
     "Name": "Italian Bakery",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 10,
     "Name": "Sugar & Spice",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 11,
     "Name": "Shop Rite",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 12,
     "Name": "Cleo",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 13,
     "Name": "Swiss Chalet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 14,
     "Name": "Highland Farms",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 15,
     "Name": "Grand Lux Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 16,
     "Name": "Spago",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 17,
     "Name": "Antica Pizzeria",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 18,
     "Name": "Super Save Gas",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 19,
     "Name": "Tilted Kilt",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 20,
     "Name": "Save On Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 21,
     "Name": "Roti Palace",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 22,
     "Name": "Indian Sweets",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 23,
     "Name": "I Herb",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 24,
     "Name": "Sirens",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 25,
     "Name": "Macsushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 26,
     "Name": "Taco Time",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 27,
     "Name": "Target Park",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 28,
     "Name": "Midi Thai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 29,
     "Name": "Ingles Markets Inc.",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 30,
     "Name": "Panago Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 31,
     "Name": "Michael's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 32,
     "Name": "Blenz Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 33,
     "Name": "Mobil",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 34,
     "Name": "Tru Value",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 35,
     "Name": "Quality Meats &amp; Deli",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 36,
     "Name": "Hec Montreal",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 37,
     "Name": "Cadillac",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 38,
     "Name": "My Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 39,
     "Name": "Chipotle",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 40,
     "Name": "Tumi",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 41,
     "Name": "Tops Fuel",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 42,
     "Name": "Supplement King",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 43,
     "Name": "Hudson's Bay",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 44,
     "Name": "Marshalls",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 45,
     "Name": "Jollibee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 46,
     "Name": "True Religion",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 47,
     "Name": "Diner Deluxe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 48,
     "Name": "Hockey Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 49,
     "Name": "COUNTRY MEADOWS GOLF C",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 50,
     "Name": "Beachbody",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 51,
     "Name": "Fresh Rolls Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 52,
     "Name": "Leon's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 53,
     "Name": "Crystal Buffet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 54,
     "Name": "Khao Thai Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 55,
     "Name": "Swimco",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 56,
     "Name": "Lee Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 57,
     "Name": "Hertz",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 58,
     "Name": "Nickels Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 59,
     "Name": "Big Eddy Pub",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 60,
     "Name": "Fionn MacCool's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 61,
     "Name": "Golden Chicken",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 62,
     "Name": "Daisy Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 63,
     "Name": "Waring House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 64,
     "Name": "Spotify",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 65,
     "Name": "Strada",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 66,
     "Name": "Topper's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 67,
     "Name": "Silver Stream Farms",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 68,
     "Name": "Melanie Lyne",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 69,
     "Name": "Foodworld",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 70,
     "Name": "Hollister",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 71,
     "Name": "Natural Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 72,
     "Name": "Macy's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 73,
     "Name": "Great Canadian Bagel",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 74,
     "Name": "Giovanni's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 75,
     "Name": "Planet Fitness",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 76,
     "Name": "Fred Meyer Stores",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 77,
     "Name": "Sushi Go",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 78,
     "Name": "Seneca",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 79,
     "Name": "Union Station",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 80,
     "Name": "Sunset Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 81,
     "Name": "Imperial Meats",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 82,
     "Name": "China House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 83,
     "Name": "Softmoc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 84,
     "Name": "Jimmy Buffett's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 85,
     "Name": "Northern Reflections",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 86,
     "Name": "Zipcar",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 87,
     "Name": "Just Hockey",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 88,
     "Name": "Irish Pub",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 89,
     "Name": "Halcyon Hot Springs",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 90,
     "Name": "Perfect Plate",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 91,
     "Name": "Ruth's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 92,
     "Name": "Toytown",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 93,
     "Name": "La Fiesta",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 94,
     "Name": "Rite Aid",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 95,
     "Name": "bureau en gros",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 96,
     "Name": "Body Shop",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 97,
     "Name": "Korean House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 98,
     "Name": "Goodness Me",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 99,
     "Name": "Viet Thai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 100,
     "Name": "Laughing Buddha",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 101,
     "Name": "Go4 Greek",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 102,
     "Name": "B &amp; T Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 103,
     "Name": "Lids",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 104,
     "Name": "Sam's Food Stores",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 105,
     "Name": "Critter Jungle",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 106,
     "Name": "Starbucks",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 107,
     "Name": "Market Fresh",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 108,
     "Name": "Milestones Grill & Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 109,
     "Name": "Outback Steakhouse",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 110,
     "Name": "Restaurant Basha",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 111,
     "Name": "Smoke's Poutinerie",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 112,
     "Name": "Reid's Dairy",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 113,
     "Name": "Once Upon A Child",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 114,
     "Name": "Carl's Jr",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 115,
     "Name": "Structube",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 116,
     "Name": "Tender Greens",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 117,
     "Name": "Cartier",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 118,
     "Name": "La Maison Smith",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 119,
     "Name": "Jungle Jim's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 120,
     "Name": "Valu Mart",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 121,
     "Name": "T Booth",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 122,
     "Name": "Food Depot",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 123,
     "Name": "Sunny Dragon Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 124,
     "Name": "Great West Life",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 125,
     "Name": "Xi'an Famous Foods",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 126,
     "Name": "East Side Mario's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 127,
     "Name": "Sakura Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 128,
     "Name": "Pizza Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 129,
     "Name": "Firehouse Subs",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 130,
     "Name": "Arepa Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 131,
     "Name": "Gourmet Express",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 132,
     "Name": "Mayfair",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 133,
     "Name": "Sunrise Records",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 134,
     "Name": "Wacky Wings",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 135,
     "Name": "Rocco's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 136,
     "Name": "Simons",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 137,
     "Name": "Spotless Dry Clearners",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 138,
     "Name": "Lawson",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 139,
     "Name": "Brandy Melville",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 140,
     "Name": "Nando's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 141,
     "Name": "Manchu Wok",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 142,
     "Name": "Udupi Palace",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 143,
     "Name": "Bamiyan Kabob",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 144,
     "Name": "Olive Garden",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 145,
     "Name": "Moguls Coffee House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 146,
     "Name": "Country Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 147,
     "Name": "Mr Greek",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 148,
     "Name": "Anytime Fitness",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 149,
     "Name": "Oxxo",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 150,
     "Name": "Golden Star",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 151,
     "Name": "Unit Park",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 152,
     "Name": "Foodora",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 153,
     "Name": "BEECHWOOD GOLF & COUNT",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 154,
     "Name": "Saje Natural Wellness Canada",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 155,
     "Name": "Koodo Mobile",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 156,
     "Name": "Mount Royal Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 157,
     "Name": "Double Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 158,
     "Name": "Air Asia",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 159,
     "Name": "Hooters",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 160,
     "Name": "Public Storage",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 161,
     "Name": "San Korean Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 162,
     "Name": "McDonald's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 163,
     "Name": "Gino's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 164,
     "Name": "Farmacia",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 165,
     "Name": "Famous Wok",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 166,
     "Name": "Yum Yum",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 167,
     "Name": "Hickory Farms",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 168,
     "Name": "Nature's Fare Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 169,
     "Name": "Rexall",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 170,
     "Name": "Chevron",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 171,
     "Name": "Brioche Doree",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 172,
     "Name": "Pizza Depot",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 173,
     "Name": "Davids Tea",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 174,
     "Name": "Lululemon",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 175,
     "Name": "Galaxie Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 176,
     "Name": "Fairmont",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 177,
     "Name": "Brixton's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 178,
     "Name": "Park Inn",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 179,
     "Name": "Japan Buffet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 180,
     "Name": "Fenwick",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 181,
     "Name": "Diva Petroleum",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 182,
     "Name": "Bangkok Groceries",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 183,
     "Name": "The Lego Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 184,
     "Name": "Tommy Hilfiger",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 185,
     "Name": "Jysk",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 186,
     "Name": "Intersport",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 187,
     "Name": "Jimmy G's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 188,
     "Name": "Blue Sky",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 189,
     "Name": "Cosmopolitan",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 190,
     "Name": "China Palace",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 191,
     "Name": "Holt Renfrew",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 192,
     "Name": "Stone Crock Bakery",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 193,
     "Name": "Econo Lodge",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 194,
     "Name": "China Star",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 195,
     "Name": "Jewel Osco",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 196,
     "Name": "Soup It Up",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 197,
     "Name": "Congee Queen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 198,
     "Name": "Molly Maid",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 199,
     "Name": "Fortino's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 200,
     "Name": "Tops Markets",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 201,
     "Name": "The Chamois",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 202,
     "Name": "Sugar Mountain",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 203,
     "Name": "Lego",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 204,
     "Name": "The Brickhouse In Brick Lane",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 205,
     "Name": "Boucherie",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 206,
     "Name": "Armani Exchange",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 207,
     "Name": "Jamestown Milk",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 208,
     "Name": "Triple O's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 209,
     "Name": "Mini Markets",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 210,
     "Name": "Medieval Times",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 211,
     "Name": "Wawa Inc",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 212,
     "Name": "Lyft",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 213,
     "Name": "Sprouts",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 214,
     "Name": "Burger Baron",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 215,
     "Name": "Chowon Family Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 216,
     "Name": "Naturalizer",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 217,
     "Name": "Motherhood",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 218,
     "Name": "Salvatore Ferragamo",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 219,
     "Name": "Mc Graw Hill",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 220,
     "Name": "Rainbow Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 221,
     "Name": "Quicken",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 222,
     "Name": "Mary Brown's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 223,
     "Name": "Walmart",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 224,
     "Name": "Saint Laurent",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 225,
     "Name": "Dave's Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 226,
     "Name": "Coffee Tree",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 227,
     "Name": "Thai One",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 228,
     "Name": "Hopper",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 229,
     "Name": "Hallmark",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 230,
     "Name": "Evo Car Share",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 231,
     "Name": "Ned Devine's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 232,
     "Name": "Le Gourmand Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 233,
     "Name": "Aritzia",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 234,
     "Name": "Yoox",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 235,
     "Name": "Intuit",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 236,
     "Name": "Children's Place",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 237,
     "Name": "99 Cents Only Stores",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 238,
     "Name": "Five Guys",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 239,
     "Name": "Intermarche",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 240,
     "Name": "Garden Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 241,
     "Name": "BookIt",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 242,
     "Name": "Hulu",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 243,
     "Name": "Red Lobster",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 244,
     "Name": "Thai Bistro",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 245,
     "Name": "Shoppers Drug Mart",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 246,
     "Name": "Milk Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 247,
     "Name": "Hasty Market Corp",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 248,
     "Name": "Momo Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 249,
     "Name": "Fat Tuesday Beach Place",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 250,
     "Name": "Mr Shawarma",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 251,
     "Name": "La Castile",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 252,
     "Name": "Red Rooster",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 253,
     "Name": "Bouclair",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 254,
     "Name": "Lola's",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 255,
     "Name": "Chef's Plate",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 256,
     "Name": "Pinkberry",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 257,
     "Name": "Quik Shop",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 258,
     "Name": "Priceline",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 259,
     "Name": "Mountain Equipment Co-Op",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 260,
     "Name": "Jang Mo Jib",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 261,
     "Name": "Imax Theaters And Planetarium",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 262,
     "Name": "CAA",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 263,
     "Name": "Burger King",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 264,
     "Name": "Marc's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 265,
     "Name": "Mine Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 266,
     "Name": "Kaspersky Lab",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 267,
     "Name": "Echoage",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 268,
     "Name": "Aldi",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 269,
     "Name": "Chapters",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 270,
     "Name": "TERRA NOVA GOLF RESORT",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 271,
     "Name": "Ka Chi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 272,
     "Name": "Jack's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 273,
     "Name": "Big Y",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 274,
     "Name": "Barque Smokehouse",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 275,
     "Name": "Shefield Express",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 276,
     "Name": "Taxi Montreal Express",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 277,
     "Name": "Car2go",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 278,
     "Name": "ClassPass",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 279,
     "Name": "Salty's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 280,
     "Name": "Jug City",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 281,
     "Name": "Apple",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 282,
     "Name": "Chez Lucien",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 283,
     "Name": "Penelope Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 284,
     "Name": "Sac Wich",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 285,
     "Name": "India Bazaar",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 286,
     "Name": "The Bull",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 287,
     "Name": "Baton Rouge Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 288,
     "Name": "Bellagio",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 289,
     "Name": "North Shore Taxi",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 290,
     "Name": "Nespresso",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 291,
     "Name": "Square Enix",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 292,
     "Name": "Taste Of India",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 293,
     "Name": "Fabbrica",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 294,
     "Name": "Vanelli's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 295,
     "Name": "Jazzercise",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 296,
     "Name": "Asian Gourmet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 297,
     "Name": "Nordstrom",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 298,
     "Name": "GNC",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 299,
     "Name": "Mrs. Tiggy Winkle's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 300,
     "Name": "CSV Pharmacy",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 301,
     "Name": "T &amp; T Supermarket Inc.",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 302,
     "Name": "Little Italy",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 303,
     "Name": "Pizza Hut",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 304,
     "Name": "Fas Gas",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 305,
     "Name": "WinCo foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 306,
     "Name": "Reuters.Com",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 307,
     "Name": "Le Pain Quotidien",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 308,
     "Name": "Westin Harbour Castle",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 309,
     "Name": "Ming's Buffet &amp; Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 310,
     "Name": "Mona Fine Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 311,
     "Name": "Royal Caribbean",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 312,
     "Name": "Heritage Pancake House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 313,
     "Name": "Forever 21",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 314,
     "Name": "Cogeco",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 315,
     "Name": "Mark's",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 316,
     "Name": "Maceys",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 317,
     "Name": "China Wok",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 318,
     "Name": "All Taxi Management",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 319,
     "Name": "Barre Belle",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 320,
     "Name": "Levi's",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 321,
     "Name": "Clay Oven",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 322,
     "Name": "Primus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 323,
     "Name": "Taxitab",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 324,
     "Name": "Szechuan Szechuan",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 325,
     "Name": "Pumpernickel's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 326,
     "Name": "Pho Mi 99",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 327,
     "Name": "State &amp; Main",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 328,
     "Name": "Unicef",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 329,
     "Name": "Homesense",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 330,
     "Name": "Four Seasons",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 331,
     "Name": "O Sho Japanese Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 332,
     "Name": "Petro-Canada",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 333,
     "Name": "humane sociey",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 334,
     "Name": "Lowe's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 335,
     "Name": "Produce Depot",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 336,
     "Name": "Ginger",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 337,
     "Name": "La Belle Province",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 338,
     "Name": "Trading Post",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 339,
     "Name": "Mercedes Benz",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 340,
     "Name": "Akira Japanese Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 341,
     "Name": "Penguin Pickup Market",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 342,
     "Name": "Fossil Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 343,
     "Name": "Isagenix",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 344,
     "Name": "York University",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 345,
     "Name": "Il Negozio Nicastro",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 346,
     "Name": "Anoush Middle Eastern Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 347,
     "Name": "Ardene",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 348,
     "Name": "Avast",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 349,
     "Name": "Flashback Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 350,
     "Name": "Uline",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 351,
     "Name": "Creperie",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 352,
     "Name": "Flying Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 353,
     "Name": "Famous Footwear",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 354,
     "Name": "Anthropologie",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 355,
     "Name": "Giorgio's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 356,
     "Name": "Lick's Homeburgers",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 357,
     "Name": "T Mobile",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 358,
     "Name": "Asos",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 359,
     "Name": "National Access Cannabis",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 360,
     "Name": "P.F. Chang's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 361,
     "Name": "Planet Organic",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 362,
     "Name": "Pizza Nova",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 363,
     "Name": "Pauls Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 364,
     "Name": "Winners",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 365,
     "Name": "Koreana Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 366,
     "Name": "Blue Banana",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 367,
     "Name": "Wok Box",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 368,
     "Name": "Mc Afee",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 369,
     "Name": "Aeropostale Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 370,
     "Name": "Daily Grind",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 371,
     "Name": "Bellissimo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 372,
     "Name": "Stop N Go",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 373,
     "Name": "Montana's Cook House &amp; Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 374,
     "Name": "India Town Food Center",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 375,
     "Name": "Boni Soir",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 376,
     "Name": "10 Buck Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 377,
     "Name": "Hello Fresh",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 378,
     "Name": "Bella Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 379,
     "Name": "VRBO",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 380,
     "Name": "Linkedin",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 381,
     "Name": "Quynh Nhi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 382,
     "Name": "Shawarma Castle",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 383,
     "Name": "Bombay Palace",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 384,
     "Name": "United Airlines",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 385,
     "Name": "WineOnline.ca",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 386,
     "Name": "Robin's Donuts",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 387,
     "Name": "Super Convenience",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 388,
     "Name": "Kailash Parbat Catering Services",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 389,
     "Name": "Koho Food Services Ltd",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 390,
     "Name": "Sizzler",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 391,
     "Name": "Sushi Hour",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 392,
     "Name": "David's Bridal",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 393,
     "Name": "Flo's Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 394,
     "Name": "Harbor Freight Tools",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 395,
     "Name": "Giant Eagle Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 396,
     "Name": "Polynesian Cultural Center",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 397,
     "Name": "Welland Cafe",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 398,
     "Name": "R C Food Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 399,
     "Name": "Dollar General Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 400,
     "Name": "Free Flow Petroleum",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 401,
     "Name": "Johnston &amp; Murphy",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 402,
     "Name": "Popeye's Supplements",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 403,
     "Name": "Desert Cab",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 404,
     "Name": "Lush",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 405,
     "Name": "Zumiez",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 406,
     "Name": "Your Good Health Store",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 407,
     "Name": "Hamilton Beach Brands Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 408,
     "Name": "Tesco",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 409,
     "Name": "GAP Kids",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 410,
     "Name": "Sun Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 411,
     "Name": "Urban Barn",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 412,
     "Name": "Toys R Us",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 413,
     "Name": "Yummy Pho",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 414,
     "Name": "Petit Dejeuner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 415,
     "Name": "Five Below",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 416,
     "Name": "The Economist Newspaper",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 417,
     "Name": "Willy's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 418,
     "Name": "Thai Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 419,
     "Name": "Power To Change",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 420,
     "Name": "Crepe Delicious",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 421,
     "Name": "independent Pharmacy",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 422,
     "Name": "Horn Of Plenty Market",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 423,
     "Name": "Krispy Kreme Doughnut Corporation",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 424,
     "Name": "Under Armour",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 425,
     "Name": "StubHub",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 426,
     "Name": "Ming Room",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 427,
     "Name": "Fresh",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 428,
     "Name": "Java U",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 429,
     "Name": "Mmmuffins",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 430,
     "Name": "Menchie's Frozen Yogurt",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 431,
     "Name": "Holy Cow",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 432,
     "Name": "Durham College",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 433,
     "Name": "Red Rocket Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 434,
     "Name": "Banana Republic",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 435,
     "Name": "Maritime Bus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 436,
     "Name": "Foodland",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 437,
     "Name": "Royal Shawarma",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 438,
     "Name": "Call It Spring",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 439,
     "Name": "La Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 440,
     "Name": "Lily Thai Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 441,
     "Name": "La Luna Restaurant",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 442,
     "Name": "Domino's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 443,
     "Name": "Westin",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 444,
     "Name": "Shell",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 445,
     "Name": "Lucky Supermarket",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 446,
     "Name": "National Post Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 447,
     "Name": "Sportswear",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 448,
     "Name": "Bocca Restaurant &amp; Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 449,
     "Name": "Pharma Sense",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 450,
     "Name": "Boston Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 451,
     "Name": "Famous Famiglia",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 452,
     "Name": "Mr. Sub",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 453,
     "Name": "Timothy's World Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 454,
     "Name": "Mandarin Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 455,
     "Name": "Circle K",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 456,
     "Name": "Ali Baba",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 457,
     "Name": "Tea &amp; Ginseng",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 458,
     "Name": "Town &amp; Country Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 459,
     "Name": "Barney's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 460,
     "Name": "Remark Fresh Markets",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 461,
     "Name": "Hero Certified Burgers",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 462,
     "Name": "Lucky Dollar",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 463,
     "Name": "GAP",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 464,
     "Name": "Super Food",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 465,
     "Name": "Inspire Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 466,
     "Name": "Vietnamese Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 467,
     "Name": "Colony Main",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 468,
     "Name": "Melaleuca",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 469,
     "Name": "World Gym",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 470,
     "Name": "Joe Dog's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 471,
     "Name": "West49",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 472,
     "Name": "Granville Island",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 473,
     "Name": "Uniprix",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 474,
     "Name": "Mastermind Toys",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 475,
     "Name": "Canopy Growth",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 476,
     "Name": "Club 200",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 477,
     "Name": "Fort Supermarket Ltd",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 478,
     "Name": "Lucky Dragon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 479,
     "Name": "Moxie's Grill Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 480,
     "Name": "Carter's",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 481,
     "Name": "Yellow Cab Co",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 482,
     "Name": "Super Fresh",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 483,
     "Name": "Vineyards",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 484,
     "Name": "Captain George",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 485,
     "Name": "Metro",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 486,
     "Name": "The Ballroom",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 487,
     "Name": "Big Bone Bbq",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 488,
     "Name": "Edible Arrangements",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 489,
     "Name": "Table 51",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 490,
     "Name": "Pancake House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 491,
     "Name": "Massimo Dutti",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 492,
     "Name": "Fabricland",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 493,
     "Name": "Dim Sum King",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 494,
     "Name": "Korean Village Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 495,
     "Name": "Hopscotch",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 496,
     "Name": "Bodybuilding.Com",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 497,
     "Name": "Wok Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 498,
     "Name": "Yam Chops",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 499,
     "Name": "Squarespace",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 500,
     "Name": "Commissos Fresh Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 501,
     "Name": "Fiesta Farms Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 502,
     "Name": "Canada's Wonderland",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 503,
     "Name": "Moving Help",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 504,
     "Name": "Aviva",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 505,
     "Name": "Golden Dragon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 506,
     "Name": "Easy Park",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 507,
     "Name": "Little Short Stop Stores",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 508,
     "Name": "Home Hardware",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 509,
     "Name": "Sarker Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 510,
     "Name": "Bidgood's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 511,
     "Name": "Mongo's Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 512,
     "Name": "Original Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 513,
     "Name": "Husky",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 514,
     "Name": "The Boardwalk",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 515,
     "Name": "Acura",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 516,
     "Name": "Wally's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 517,
     "Name": "Abercrombie Kids",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 518,
     "Name": "Intact Insurance",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 519,
     "Name": "Daiso",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 520,
     "Name": "Jiffy Lube",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 521,
     "Name": "Loblaws",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 522,
     "Name": "Yang Sheng Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 523,
     "Name": "Pita Pit",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 524,
     "Name": "Kitchen Stuff Plus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 525,
     "Name": "GOLF CLUB",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 526,
     "Name": "Jockey",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 527,
     "Name": "On The Run",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 528,
     "Name": "Baskin Robbins",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 529,
     "Name": "Ciao",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 530,
     "Name": "Vans",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 531,
     "Name": "Pasta Fresca",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 532,
     "Name": "Blaze Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 533,
     "Name": "Dulux Paints",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 534,
     "Name": "Queen's Pasta",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 535,
     "Name": "Bonny's Taxi",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 536,
     "Name": "DoorDash",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 537,
     "Name": "Sobeys",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 538,
     "Name": "Fidelity Investments",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 539,
     "Name": "Rona",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 540,
     "Name": "The Beer Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 541,
     "Name": "Loews Hotels",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 542,
     "Name": "Regal Cinemas",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 543,
     "Name": "Delta 9 Cannabis",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 544,
     "Name": "House Of Blues",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 545,
     "Name": "Margaritaville",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 546,
     "Name": "Crabby Joe's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 547,
     "Name": "Lemongrass",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 548,
     "Name": "Man Doo Hyang",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 549,
     "Name": "Mr Gas",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 550,
     "Name": "United Way",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 551,
     "Name": "Pho Vietnam",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 552,
     "Name": "IKEA",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 553,
     "Name": "Party City",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 554,
     "Name": "Gilt Groupe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 555,
     "Name": "Woody's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 556,
     "Name": "Kroger",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 557,
     "Name": "The Coffee Bean",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 558,
     "Name": "Pearl Court Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 559,
     "Name": "Longo's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 560,
     "Name": "Magasin",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 561,
     "Name": "Costco Gas",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 562,
     "Name": "Ferraro Restaurant",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 563,
     "Name": "Young Fruit Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 564,
     "Name": "Malton Sweets",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 565,
     "Name": "Life Time Fitness",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 566,
     "Name": "Asian Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 567,
     "Name": "Altitude Sports",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 568,
     "Name": "Sushi House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 569,
     "Name": "Solo Liquor Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 570,
     "Name": "Airbnb",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 571,
     "Name": "Coppola's Ristorante",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 572,
     "Name": "Pizza Hotline",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 573,
     "Name": "Cuisine Of India",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 574,
     "Name": "Premiere Moisson",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 575,
     "Name": "Bella Gelateria",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 576,
     "Name": "Star Noodle",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 577,
     "Name": "McEwan",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 578,
     "Name": "Delta Air Lines",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 579,
     "Name": "Langdon Hall",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 580,
     "Name": "Kung Fu Tea",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 581,
     "Name": "Green Roof Gas Bar",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 582,
     "Name": "Steam Games",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 583,
     "Name": "Pizza Italie",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 584,
     "Name": "Urban Crave",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 585,
     "Name": "Marie's Mini Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 586,
     "Name": "Saks Off 5th",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 587,
     "Name": "Black Dog Bistro",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 588,
     "Name": "Riot Games",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 589,
     "Name": "Urban Herbivore",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 590,
     "Name": "Puccini's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 591,
     "Name": "Pi Co.",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 592,
     "Name": "Pet Valu",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 593,
     "Name": "B2",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 594,
     "Name": "Mac",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 595,
     "Name": "Grab N' Go",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 596,
     "Name": "H&M",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 597,
     "Name": "Plaza Food Mart",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 598,
     "Name": "La Belle Verte",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 599,
     "Name": "Emirates",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 600,
     "Name": "WestJet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 601,
     "Name": "Top Choice",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 602,
     "Name": "House Of Fraser",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 603,
     "Name": "Irene's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 604,
     "Name": "Sporting Life",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 605,
     "Name": "Lucky Brand",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 606,
     "Name": "Rendez Vous Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 607,
     "Name": "Pancho's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 608,
     "Name": "Sky Dragon Chinese Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 609,
     "Name": "Subway",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 610,
     "Name": "Joelle's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 611,
     "Name": "Blue Nile",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 612,
     "Name": "Michinoku",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 613,
     "Name": "Vons",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 614,
     "Name": "Okinawa Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 615,
     "Name": "Minar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 616,
     "Name": "Go Transit",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 617,
     "Name": "Big Bowl",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 618,
     "Name": "Local On 8Th Ave",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 619,
     "Name": "Pizzaville",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 620,
     "Name": "Champion Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 621,
     "Name": "Atlas Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 622,
-    "Name": "R�no-D�p�t",
-    "CategoryID": 9
+    "Name": "Réno-Dépôt",
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 623,
     "Name": "Little India",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 624,
     "Name": "Komfort Kitchen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 625,
     "Name": "University Of Toronto",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 626,
     "Name": "Bar Louie",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 627,
     "Name": "Property Tax",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 628,
     "Name": "Eggspectation",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 629,
     "Name": "Seoul House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 630,
     "Name": "Ultramar Ltd",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 631,
     "Name": "Netflix",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 632,
     "Name": "Beavertails",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 633,
     "Name": "Peking Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 634,
     "Name": "Kin's Farm Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 635,
     "Name": "The 3 Brewers",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 636,
     "Name": "Kwik Way",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 637,
     "Name": "Wing Machine",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 638,
     "Name": "Aliments Merci",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 639,
     "Name": "Chrysler Group",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 640,
     "Name": "Jade Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 641,
     "Name": "Hamilton Grocery",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 642,
     "Name": "Just-Eat",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 643,
     "Name": "Running Room Canada Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 644,
     "Name": "Gymboree",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 645,
     "Name": "Polo Ralph Lauren Factory Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 646,
     "Name": "Beaches Natural Foods",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 647,
     "Name": "Lambert Oil Ltd",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 648,
     "Name": "Oakes Farms",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 649,
     "Name": "Fernie Mountain Spirits",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 650,
     "Name": "Milano",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 651,
     "Name": "Dolce Vita",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 652,
     "Name": "Min A Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 653,
     "Name": "D S Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 654,
     "Name": "Foresters",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 655,
     "Name": "Wild Wing",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 656,
     "Name": "The Clubhouse",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 657,
     "Name": "Roti Hut",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 658,
     "Name": "Canada Post",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 659,
     "Name": "WITHIN RANGE GOLF CENT",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 660,
     "Name": "Star Market",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 661,
     "Name": "Wagjag",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 662,
     "Name": "CraveTv",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 663,
     "Name": "Shiraz Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 664,
     "Name": "Princess",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 665,
     "Name": "Pizza Plateau",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 666,
     "Name": "Intercontinental",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 667,
     "Name": "Nissan",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 668,
     "Name": "Dark Horse",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 669,
     "Name": "Jack In The Box",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 670,
     "Name": "Bulk Barn Foods Limited",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 671,
     "Name": "Taro's Fish",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 672,
     "Name": "Neiman Marcus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 673,
     "Name": "Tweed",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 674,
     "Name": "Summerhill Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 675,
     "Name": "PlayStation Network",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 676,
     "Name": "Etihad Airways",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 677,
     "Name": "Merle Norman",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 678,
     "Name": "Royal Variety",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 679,
     "Name": "Fabfitfun",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 680,
     "Name": "GM Financial: Auto Loan Financing &amp; Leases",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 681,
     "Name": "Home Outfitters",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 682,
     "Name": "Mount Royal University",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 683,
     "Name": "NORTHLANDS GOLF COURSE",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 684,
     "Name": "Lee Valley Tools",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 685,
     "Name": "Villa Madina",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 686,
     "Name": "Wine Rack",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 687,
     "Name": "Mercadona",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 688,
     "Name": "Becker's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 689,
     "Name": "Coffee Culture",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 690,
     "Name": "Pizza Place",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 691,
     "Name": "The Home Depot",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 692,
     "Name": "Chilangos",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 693,
     "Name": "Cracker Barrel",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 694,
     "Name": "Buffalo Wild Wings",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 695,
     "Name": "The Chopped Leaf",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 696,
     "Name": "Pizzedelic",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 697,
     "Name": "Scholar's Choice",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 698,
     "Name": "Disneyland",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 699,
     "Name": "Noodle Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 700,
     "Name": "Upper Crust",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 701,
     "Name": "Aubainerie",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 702,
     "Name": "OAK GABLES GOLF CLUB",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 703,
     "Name": "Wagamama",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 704,
     "Name": "S Mart",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 705,
     "Name": "Candlewood Suites Boston Burlington",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 706,
     "Name": "Penningtons",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 707,
     "Name": "Patty Boland's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 708,
     "Name": "Loonie Plus Stores",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 709,
     "Name": "Duffy's Tavern And Motor Inn",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 710,
     "Name": "Beck Taxi",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 711,
     "Name": "LensCrafters Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 712,
     "Name": "Bruno's Fine Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 713,
     "Name": "Chocolate Sensations",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 714,
     "Name": "Cobs Bread Clayton's Crossing",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 715,
     "Name": "JetBlue",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 716,
     "Name": "Rabba Fine Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 717,
     "Name": "Auntie Anne's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 718,
     "Name": "Duanereade",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 719,
     "Name": "Country Corner",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 720,
     "Name": "Speedy Auto Service",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 721,
     "Name": "Taco Bell",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 722,
     "Name": "Halibut House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 723,
     "Name": "Axia Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 724,
     "Name": "Sega",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 725,
     "Name": "Steve Madden",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 726,
-    "Name": "Scouts�Canada",
-    "CategoryID": 9
+    "Name": "Scouts Canada",
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 727,
     "Name": "Hawgs Breath Saloon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 728,
     "Name": "Moores",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 729,
     "Name": "La Guardia Usa Llc",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 730,
     "Name": "Mongolian Hot Pot",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 731,
     "Name": "Family Express",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 732,
     "Name": "Old Navy",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 733,
     "Name": "Hibachi Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 734,
     "Name": "Freshii",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 735,
     "Name": "Ritorno",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 736,
     "Name": "Local Sherwood Park",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 737,
     "Name": "Au Vieux Duluth Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 738,
     "Name": "San Remo",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 739,
     "Name": "Shopbop.Com",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 740,
     "Name": "Mondou",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 741,
     "Name": "Au Pain Dore Bakery",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 742,
     "Name": "La Carnita",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 743,
     "Name": "ROYAL OAKS GOLF CLUB",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 744,
     "Name": "TELUS",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 745,
     "Name": "Ezra's Pound",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 746,
     "Name": "Pho Binh Minh",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 747,
     "Name": "Sheraton Hotels  Inc",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 748,
     "Name": "Piccolo Grande",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 749,
     "Name": "Creative Bag Toronto",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 750,
-    "Name": "Caplansky�s Deli",
-    "CategoryID": 8
+    "Name": "Caplansky’s Deli",
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 751,
     "Name": "Jeunesse",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 752,
     "Name": "Loobies",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 753,
     "Name": "Noodle King",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 754,
     "Name": "Avon",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 755,
     "Name": "Zulily",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 756,
     "Name": "Wireless Wave",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 757,
     "Name": "Body Works",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 758,
     "Name": "Luca Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 759,
     "Name": "Zehrs",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 760,
     "Name": "Smashburger",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 761,
     "Name": "Country Grocer.",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 762,
     "Name": "Budget",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 763,
     "Name": "Smith's Markets Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 764,
     "Name": "Kinki",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 765,
     "Name": "Ogilvie Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 766,
     "Name": "Wayfair",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 767,
     "Name": "Ju Ju Be",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 768,
     "Name": "Fatburger",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 769,
     "Name": "The Keg Steakhouse & Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 770,
     "Name": "Marcello's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 771,
     "Name": "Tallest Poppy",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 772,
     "Name": "Value Village",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 773,
     "Name": "Amazon",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 774,
     "Name": "Popeye's Louisiana Kitchen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 775,
     "Name": "King Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 776,
     "Name": "Minor Fisheries Ltd",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 777,
     "Name": "Philz Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 778,
     "Name": "Shanghai Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 779,
     "Name": "Esso",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 780,
     "Name": "Coppa's Fresh Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 781,
     "Name": "Danforth Food Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 782,
     "Name": "Well.ca Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 783,
     "Name": "Thai Tamarind",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 784,
     "Name": "Colette",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 785,
     "Name": "Globus",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 786,
     "Name": "Bootleggers",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 787,
     "Name": "HarbourFront",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 788,
     "Name": "Le Saint Bock",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 789,
     "Name": "Clarks",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 790,
     "Name": "Ruby Thai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 791,
     "Name": "Sutherland Chan School &amp; Teaching Clinic",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 792,
     "Name": "Sumo Ramen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 793,
     "Name": "Beauty Boutique",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 794,
     "Name": "Coffee Time",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 795,
     "Name": "NUNA GOLF",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 796,
     "Name": "Paul's Kitchen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 797,
     "Name": "Payless ShoeSource",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 798,
     "Name": "Chevrolet",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 799,
     "Name": "Delice",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 800,
     "Name": "Aldo",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 801,
     "Name": "Campbell Variety",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 802,
     "Name": "Lulus Fashion Lounge",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 803,
     "Name": "Rogers' Chocolates",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 804,
     "Name": "Fresh Express Fine Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 805,
     "Name": "Sask Tel",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 806,
     "Name": "Copper Branch",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 807,
     "Name": "Le Chateau",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 808,
     "Name": "Booster Juice",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 809,
     "Name": "Zara Home",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 810,
     "Name": "International News",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 811,
     "Name": "Panda Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 812,
     "Name": "Rosies",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 813,
     "Name": "Rw &amp; Co",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 814,
     "Name": "Tim Hortons",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 815,
     "Name": "Ticketmaster",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 816,
     "Name": "Videotron",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 817,
     "Name": "Dairy Freeze",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 818,
     "Name": "Decadent Desserts",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 819,
     "Name": "Dollar Tree Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 820,
     "Name": "Sail",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 821,
     "Name": "Not Just Steaks",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 822,
     "Name": "Sen Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 823,
     "Name": "Sushi Ka",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 824,
     "Name": "Country Road",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 825,
     "Name": "Wine Cellars",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 826,
     "Name": "Troy's Diner Inc",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 827,
     "Name": "Thai Delight",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 828,
     "Name": "Thai Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 829,
     "Name": "House Of Wings",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 830,
     "Name": "Inabuggy",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 831,
     "Name": "Red House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 832,
     "Name": "Sport-Chek International",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 833,
     "Name": "Nathan's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 834,
     "Name": "Lindt &amp; Sprungli's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 835,
     "Name": "Mercato",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 836,
     "Name": "Mamma's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 837,
     "Name": "Om India Food Centre",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 838,
     "Name": "Swirls Ice Cream",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 839,
     "Name": "Okcupid",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 840,
     "Name": "Texaco",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 841,
     "Name": "Brazen Head",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 842,
     "Name": "Ottway",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 843,
     "Name": "Firkin Pubs",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 844,
     "Name": "Place Tevere",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 845,
     "Name": "Flying Pig",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 846,
     "Name": "Country Style",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 847,
     "Name": "Tea Hut",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 848,
     "Name": "Pizzaiolo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 849,
     "Name": "Monastery Baker",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 850,
     "Name": "Guess",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 851,
     "Name": "Bagel Stop",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 852,
     "Name": "Hotstar",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 853,
     "Name": "Dixie Lee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 854,
     "Name": "Manpuku",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 855,
     "Name": "Econo Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 856,
     "Name": "The Honest Company",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 857,
     "Name": "Caribbean Corner",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 858,
     "Name": "Tully's Coffee",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 859,
     "Name": "Laird Convenience",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 860,
     "Name": "La Baguette",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 861,
     "Name": "Sheridan College",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 862,
     "Name": "Dynamite",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 863,
     "Name": "Sushi Gen",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 864,
     "Name": "Market Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 865,
     "Name": "Harvey's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 866,
     "Name": "Pharmasave",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 867,
     "Name": "Stella's Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 868,
     "Name": "Waffle House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 869,
     "Name": "Shakey's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 870,
     "Name": "Cinnabon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 871,
     "Name": "DHL",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 872,
     "Name": "Love's Travel Stops",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 873,
     "Name": "U Haul",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 874,
     "Name": "Ren's Pets",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 875,
     "Name": "Ripley's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 876,
     "Name": "Old Spaghetti Factory",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 877,
     "Name": "Price Chopper",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 878,
     "Name": "Primark",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 879,
     "Name": "Crown Taxi",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 880,
     "Name": "Free People",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 881,
     "Name": "Taxi Service",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 882,
     "Name": "Carnival",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 883,
     "Name": "City Supermarket",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 884,
     "Name": "L.L.BeanInc.",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 885,
     "Name": "Trattoria Nervosa",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 886,
     "Name": "Checker Cabs Ltd",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 887,
     "Name": "Canadian Tire Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 888,
     "Name": "Indigo",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 889,
     "Name": "Taste Of Mediterranean",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 890,
     "Name": "Cabela's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 891,
     "Name": "I Love Pho'",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 892,
     "Name": "Valentino",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 893,
     "Name": "Magnolia Bakery",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 894,
     "Name": "Zarkys",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 895,
     "Name": "Money Mart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 896,
     "Name": "Spiceland",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 897,
     "Name": "Wine.Com",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 898,
     "Name": "Wwf",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 899,
     "Name": "Marks &amp; Spencer",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 900,
     "Name": "B. &amp; T Food",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 901,
     "Name": "La Senza",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 902,
     "Name": "Michael Kors",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 903,
     "Name": "Szechuan Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 904,
     "Name": "Kate Spade New York",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 905,
     "Name": "Browns",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 906,
     "Name": "Free Times Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 907,
     "Name": "Shawarma House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 908,
     "Name": "Road House Bar &amp; Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 909,
     "Name": "Mama Mia's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 910,
     "Name": "Farm Boy",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 911,
     "Name": "The Grocery Store",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 912,
     "Name": "The Barking Frog",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 913,
     "Name": "Stratengers",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 914,
     "Name": "Cibo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 915,
     "Name": "Saigon House Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 916,
     "Name": "Bershka",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 917,
     "Name": "Digicel",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 918,
     "Name": "Basha Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 919,
     "Name": "Rogers",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 920,
     "Name": "Spicy House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 921,
     "Name": "India Village Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 922,
     "Name": "Thai Chef",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 923,
     "Name": "The Boathouse Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 924,
     "Name": "Jimmy John's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 925,
     "Name": "Tommy Bahama",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 926,
     "Name": "S Trip",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 927,
     "Name": "Whole Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 928,
     "Name": "Red Robin",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 929,
     "Name": "Bc Liquor Stores",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 930,
     "Name": "Encore",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 931,
     "Name": "Moncton Superstore",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 932,
     "Name": "Ho Ho Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 933,
     "Name": "Indian Flavour",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 934,
     "Name": "Bistro On Main",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 935,
     "Name": "Mac's Convenience Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 936,
     "Name": "Barburrito",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 937,
     "Name": "Extreme Pita",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 938,
     "Name": "Denny's Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 939,
     "Name": "D's Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 940,
     "Name": "Pharmacie",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 941,
     "Name": "Little Caesars",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 942,
     "Name": "I Deal Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 943,
     "Name": "Joeys",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 944,
     "Name": "Geeland Baguio Store",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 945,
     "Name": "Bombay Grocers",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 946,
     "Name": "Salad Thai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 947,
     "Name": "Louie's Classic Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 948,
     "Name": "Nilgiris",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 949,
     "Name": "Cityfone",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 950,
     "Name": "Mains Mansion",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 951,
     "Name": "Olly Fresco's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 952,
     "Name": "Bar Plus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 953,
     "Name": "Nationwide",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 954,
     "Name": "All Star Wings &amp; Ribs",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 955,
     "Name": "I G A",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 956,
     "Name": "Grill It Up",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 957,
     "Name": "Do Terra",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 958,
     "Name": "Quiznos",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 959,
     "Name": "Kingyo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 960,
     "Name": "Factory Direct.Ca",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 961,
     "Name": "Fresh Co.",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 962,
     "Name": "La Fitness",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 963,
     "Name": "K Variety",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 964,
     "Name": "Centennial College",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 965,
     "Name": "King Palace Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 966,
     "Name": "Chick Fil A",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 967,
     "Name": "Microsoft",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 968,
     "Name": "Cold Stone",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 969,
     "Name": "La Prep",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 970,
     "Name": "Barnes &amp; Noble",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 971,
     "Name": "Mazda",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 972,
     "Name": "Petco's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 973,
     "Name": "Vietnamese Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 974,
     "Name": "Paesano Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 975,
     "Name": "Pizza 3000",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 976,
     "Name": "Clinique.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 977,
     "Name": "Tea Store",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 978,
     "Name": "Lee Garden Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 979,
     "Name": "Scholastic Canada Ltd.",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 980,
     "Name": "Thai Island Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 981,
     "Name": "Qdoba Mexican Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 982,
     "Name": "Fresh Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 983,
     "Name": "Canalside Pub &amp; Eatery",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 984,
     "Name": "Pho Dau Bo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 985,
     "Name": "Victoria Inn",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 986,
     "Name": "KAUFLAND",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 987,
     "Name": "Grapefruit Moon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 988,
     "Name": "Bon Appetit",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 989,
     "Name": "Pizza Plus",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 990,
     "Name": "South St Burger Co",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 991,
     "Name": "DEVON GOLF AND CC",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 992,
     "Name": "Selfridges",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 993,
     "Name": "Wing House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 994,
     "Name": "Starwood",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 995,
     "Name": "Abbas Grocery",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 996,
     "Name": "Gabriel Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 997,
     "Name": "Gucci",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 998,
     "Name": "Zen Gardens",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 999,
     "Name": "Noodle Box",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1000,
     "Name": "Little Blue House",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1001,
     "Name": "Bridgehead",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1002,
     "Name": "J.Crew",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1003,
     "Name": "Red Lantern Cottage",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1004,
     "Name": "A&W",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1005,
     "Name": "Lidl",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1006,
     "Name": "PetSmart",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1007,
     "Name": "Queen Donair",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1008,
     "Name": "Part Source",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1009,
     "Name": "Hot Stacks",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1010,
     "Name": "Tapp Car",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1011,
     "Name": "Orkin",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1012,
     "Name": "Sushi Shop",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1013,
     "Name": "Samsung",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1014,
     "Name": "Dollar Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1015,
     "Name": "Pizza Pub",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1016,
     "Name": "Yummy Yummy",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1017,
     "Name": "Global Pet Foods",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1018,
     "Name": "H Mart",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1019,
     "Name": "Bulk Barrel Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1020,
     "Name": "Fika",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1021,
     "Name": "Rivers Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1022,
     "Name": "Halal Meat Shop",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1023,
     "Name": "Billabong",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1024,
     "Name": "Mrs. McGarrigle's Fine Food Shop",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1025,
     "Name": "Freshslice Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1026,
     "Name": "Z Teca",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1027,
     "Name": "Pho 88 Vietnamese Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1028,
     "Name": "Chico's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1029,
     "Name": "Coach",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1030,
     "Name": "Beauty Bar",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1031,
     "Name": "Tiki Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1032,
     "Name": "Pretzelmaker",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1033,
     "Name": "John Bbq Chicken Inc",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1034,
     "Name": "China Court",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1035,
     "Name": "I Love Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1036,
     "Name": "Jazz Club",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1037,
     "Name": "Total Wine &amp; More",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1038,
     "Name": "Pho Bo Ga",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1039,
     "Name": "Golden Palace",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1040,
     "Name": "7 Eleven",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1041,
     "Name": "Roots",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1042,
     "Name": "Harris Teeter Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1043,
     "Name": "Metropolitan Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1044,
     "Name": "Fox &amp; Fiddle",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1045,
     "Name": "Dairy Queen",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1046,
     "Name": "Waitrose",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1047,
     "Name": "Galaxy Cinemas",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1048,
     "Name": "Midi Bistro",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1049,
     "Name": "Maplelea",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1050,
     "Name": "Buy Buy Baby",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1051,
     "Name": "Brault & Martineau",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1052,
     "Name": "Fairweather",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1053,
     "Name": "Best Buy",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1054,
     "Name": "Quick Books",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1055,
     "Name": "The Brick",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1056,
     "Name": "Hyundai",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1057,
     "Name": "Mary Maxim Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1058,
     "Name": "Loft",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1059,
     "Name": "Tucker's Marketplace Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1060,
     "Name": "Katsuya",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1061,
     "Name": "Mongolie Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1062,
     "Name": "Divino",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1063,
     "Name": "Naples Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1064,
     "Name": "Maxi",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1065,
     "Name": "Gabby's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1066,
     "Name": "Bouchon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1067,
     "Name": "Kuo Hua Trading",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1068,
     "Name": "Shake Shack",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1069,
     "Name": "Parma Ravioli",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1070,
     "Name": "Laura Secord",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1071,
     "Name": "Mobilicity",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1072,
     "Name": "Church's Chicken",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1073,
     "Name": "Chilly Chiles",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1074,
     "Name": "Pickle Barrel",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1075,
     "Name": "Sweet Lulu",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1076,
     "Name": "Freshly Squeezed",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1077,
     "Name": "Cumbrae's",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1078,
     "Name": "Meinhardt Fine Foods Inc",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1079,
     "Name": "Akita Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1080,
     "Name": "Texas Burger",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1081,
     "Name": "Bench",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1082,
     "Name": "Btrust Supermarket",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1083,
     "Name": "Second Cup",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1084,
     "Name": "Croissant Tree",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1085,
     "Name": "Urban Outfitters",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1086,
     "Name": "Van Heusen",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1087,
     "Name": "Shawarma Plus",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1088,
     "Name": "Cineplex Entertainment",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1089,
     "Name": "The Grind",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1090,
     "Name": "Ontario Cannabis Store",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1091,
     "Name": "Umi Sushi Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1092,
     "Name": "Mercatino",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1093,
     "Name": "Duke Pubs",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1094,
     "Name": "Dan Murphy's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1095,
     "Name": "Fresh Value Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1096,
     "Name": "Field Of Greens",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1097,
     "Name": "Pharmaprix",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1098,
     "Name": "Nature's Emporium",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1099,
     "Name": "Sukhothai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1100,
     "Name": "I Tunes",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1101,
     "Name": "Skip The Dishes",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1102,
     "Name": "Pita Nutso",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1103,
     "Name": "Harrods",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1104,
     "Name": "Petland",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1105,
     "Name": "Lakeside Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1106,
     "Name": "E Park",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1107,
     "Name": "Touro Churrascaria",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1108,
     "Name": "Revive Superfoods",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1109,
     "Name": "Kosy Korner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1110,
     "Name": "Blanchard's",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1111,
     "Name": "Doris Family Produce",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1112,
     "Name": "Big Bee",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1113,
     "Name": "Saks Fifth Avenue",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1114,
     "Name": "Pizzaway",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1115,
     "Name": "Chefs Door",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1116,
     "Name": "Breka Bakery &amp; Cafe Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1117,
     "Name": "Pearl Harbourfront Chinese Cuisine",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1118,
     "Name": "Milano Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1119,
     "Name": "The Fresh Market",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1120,
     "Name": "Menard",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1121,
     "Name": "Jimmy The Greek",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1122,
     "Name": "Red Chillie",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1123,
     "Name": "Urban Planet",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1124,
     "Name": "Corks Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1125,
     "Name": "La Provence",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1126,
     "Name": "The Children's Place",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1127,
     "Name": "Havaris Produce",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1128,
     "Name": "MacEwen Petroleum",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1129,
     "Name": "Family Care Pharmacy",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1130,
     "Name": "Sweet Dreams Teashop",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1131,
     "Name": "Pita Land",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1132,
     "Name": "WHITECOURT GOLF AND COUNT",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1133,
     "Name": "Tonka Gas Bar",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1134,
     "Name": "Uber",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1135,
     "Name": "Urban Fare",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1136,
     "Name": "Madewell",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1137,
     "Name": "Pizza Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1138,
     "Name": "Pho Do Thi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1139,
     "Name": "EBGames",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1140,
     "Name": "National Sports",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1141,
     "Name": "Coriander Green",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1142,
     "Name": "Espresso Post",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1143,
     "Name": "Grocery Gateway",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1144,
     "Name": "Uniqlo",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1145,
     "Name": "Sizzling Wok",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1146,
     "Name": "Brown's Fine Foods",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1147,
     "Name": "Cole Haan",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1148,
     "Name": "So Good Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1149,
     "Name": "Toronto Zoo",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1150,
     "Name": "Savoy",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1151,
     "Name": "Nordstrom Rack",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1152,
     "Name": "Little Saigon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1153,
     "Name": "Pizza Wings",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1154,
     "Name": "Ticketfly Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1155,
     "Name": "No Frills",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1156,
     "Name": "Claire's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1157,
     "Name": "Pegasus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1158,
     "Name": "Sam Woo",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1159,
     "Name": "Roti Shop",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1160,
     "Name": "National Car Rental",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1161,
     "Name": "Sushi Bbq Inn",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1162,
     "Name": "California Thai",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1163,
     "Name": "Playdium",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1164,
     "Name": "Bob Evans Restaurants",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1165,
     "Name": "Pusateri's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1166,
     "Name": "Marriott",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1167,
     "Name": "O Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1168,
     "Name": "Corus",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1169,
     "Name": "Campanile",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1170,
     "Name": "The Alley",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1171,
     "Name": "Memories Of Japan",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1172,
     "Name": "Captain Ken's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1173,
     "Name": "Walgreens",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1174,
     "Name": "Oriental Wok",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1175,
     "Name": "Kona Grill",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1176,
     "Name": "Kobo",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 1177,
     "Name": "Groupon Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1178,
     "Name": "Publix Super Markets",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1179,
     "Name": "Sushi Time",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1180,
     "Name": "Atlantic Superstore",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1181,
     "Name": "Sbarro",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1182,
     "Name": "Hong Phat",
-    "CategoryID": 1
+    "CategoryID": 1,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1183,
     "Name": "Cottage Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1184,
     "Name": "Magic Oven",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1185,
     "Name": "Xbox",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1186,
     "Name": "Costco Wholesale",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1187,
     "Name": "KFC",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1188,
     "Name": "T.J. Maxx",
-    "CategoryID": 7
+    "CategoryID": 7,
+    "GreenPointsPerDollar": 0.75
   },
   {
     "ID": 1189,
     "Name": "Jean Coutu",
-    "CategoryID": 4
+    "CategoryID": 4,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1190,
     "Name": "Ben Thanh",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1191,
     "Name": "Bravo Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1192,
     "Name": "Quality Cheese Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1193,
     "Name": "Sonny's",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1194,
     "Name": "Foodcourt",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1195,
     "Name": "Gateway Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1196,
     "Name": "Stitches",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1197,
     "Name": "Gateway Newstands",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1198,
     "Name": "Urban Fresh",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1199,
     "Name": "China Gourmet",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1200,
     "Name": "Sugar King Factory",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1201,
     "Name": "Safeway",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1202,
     "Name": "BEECHWOOD GOLF & COUNTRY",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1203,
     "Name": "Mrs. Fields",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1204,
     "Name": "Lexus",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1205,
     "Name": "Mythos",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1206,
     "Name": "Golf Town",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1207,
     "Name": "Quality Foods",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1208,
     "Name": "Kramer's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1209,
     "Name": "Newegg Inc.",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1210,
     "Name": "Pizza New York",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1211,
     "Name": "Istanbul Kebab House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1212,
     "Name": "Bagel Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1213,
     "Name": "Bel Air Taxi",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1214,
     "Name": "Dutchies",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1215,
     "Name": "Coles",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 1216,
     "Name": "Toronto Star",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1217,
     "Name": "Costa Coffee",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1218,
     "Name": "Supercell",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1219,
     "Name": "Sushi Ya Japan",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1220,
     "Name": "Crowne Plaza Hotel",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1221,
     "Name": "U Naru Sushi",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1222,
     "Name": "Harry's",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1223,
     "Name": "Club Monaco",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1224,
     "Name": "Aroma Espresso Bar",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1225,
     "Name": "Muji",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1226,
     "Name": "King's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1227,
     "Name": "Henry's Convenience",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1228,
     "Name": "Rainforest Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1229,
     "Name": "Goodwill",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1230,
     "Name": "Zara",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1231,
     "Name": "Hinote Sushi Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1232,
     "Name": "Airflight Services",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1233,
     "Name": "Pita Express",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1234,
     "Name": "Shawarma Station",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1235,
     "Name": "Aramark",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1236,
     "Name": "Maurices",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1237,
     "Name": "Jack Astor's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1238,
     "Name": "Barney's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1239,
     "Name": "Sunoco",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1240,
     "Name": "Bala Freshmart",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1241,
     "Name": "Spin Dessert Cafe",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1242,
     "Name": "Wegmans",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1243,
     "Name": "Papa John's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1244,
     "Name": "Fit 4 Less",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1245,
     "Name": "Disney Store",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1246,
     "Name": "Dell Canada Inc",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1247,
     "Name": "Chatr Wireless",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1248,
     "Name": "Top Of The Hill Restaurant &amp; Brewery",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1249,
     "Name": "Jimbo's",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1250,
     "Name": "Ipsy",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1251,
     "Name": "Fast Eddies Fun Center",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1252,
     "Name": "Co Op Cabs",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1253,
     "Name": "Pizza 73",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1254,
     "Name": "Food Basics",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1255,
     "Name": "Bell",
-    "CategoryID": 9
+    "CategoryID": 9,
+    "GreenPointsPerDollar": 0.5
   },
   {
     "ID": 1256,
     "Name": "Starsky",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1257,
     "Name": "China Garden",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1258,
     "Name": "Vimeo",
-    "CategoryID": 2
+    "CategoryID": 2,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1259,
     "Name": "Usmania",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1260,
     "Name": "Twisted Fork",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1261,
     "Name": "Bayview Variety",
-    "CategoryID": 3
+    "CategoryID": 3,
+    "GreenPointsPerDollar": 0
   },
   {
     "ID": 1262,
     "Name": "Jumbo Dragon",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1263,
     "Name": "Royal India",
-    "CategoryID": 5
+    "CategoryID": 5,
+    "GreenPointsPerDollar": 0.8
   },
   {
     "ID": 1264,
     "Name": "Tito's Pizza",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1265,
     "Name": "Star Wok",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1266,
     "Name": "El Habanero Restaurant",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1267,
     "Name": "Aerofleet Services",
-    "CategoryID": 6
+    "CategoryID": 6,
+    "GreenPointsPerDollar": 0.1
   },
   {
     "ID": 1268,
     "Name": "Mansion House",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1269,
     "Name": "Wimpy's Diner",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1270,
     "Name": "Dhaba",
-    "CategoryID": 8
+    "CategoryID": 8,
+    "GreenPointsPerDollar": 1
   },
   {
     "ID": 1271,
     "Name": "Enbridge Gas",
-    "CategoryID": 10
+    "CategoryID": 10,
+    "GreenPointsPerDollar": 0.25
   },
   {
     "ID": 1272,
     "Name": "Ontario Hydro",
-    "CategoryID": 11
+    "CategoryID": 11,
+    "GreenPointsPerDollar": 0.2
   }
 ]
