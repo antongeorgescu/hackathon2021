@@ -12,4 +12,4 @@ CCM Engine and Trends & Recommmendations modules are both powered by machine lea
 
 ## Component Diagram ##
 
-![Component_Design](https://user-images.githubusercontent.com/6631390/126791785-dd7516b1-b7a1-43d0-ab8e-17ae85e9a47a.jpg)
+![Component_Design](https://user-images.githubusercontent.com/6631390/127339923-04f2bd94-5e41-4d47-9eba-4754c5ff4237.jpg)
