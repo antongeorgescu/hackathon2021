@@ -1,0 +1,93 @@
+.welcome-style{
+    .welcome-style-grid{
+        background-color: #F0FFE5;
+        height: 100%;
+        padding: 35px 20px;
+        .back-button{
+            ion-icon{
+                color: #489A07;
+                font-size: 18px;
+            }
+        }
+        .top-circle{
+            background-color: #B6FF7D;
+            border-radius: 50%;
+            height: 140px;
+            width: 140px;
+            float:right;
+            position: relative;
+            right: -50px;
+            img{
+                top: 33px;
+                left: -26px;
+                position: relative;
+            }
+        }       
+
+        .finesg-head{
+            color: #0D4E62;
+            font-size: 24px;
+            font-weight: 700;
+            font-family: 'Poppins Bold';
+            margin-top: 10px;
+        }
+
+        .finesg-content{
+            color:#489A07;            
+            font-size: 18px;
+            font-weight: 300;
+            margin-top: 5px;
+        }
+
+        .finesg-policy{
+            color:#489A07;            
+            font-size: 12px;
+            font-weight: 300;
+            margin-top: 10px;
+            text-decoration: underline;
+        }
+    }
+}
+
+.footer-style{
+    background-color: #F0FFE5;
+    padding-bottom: 12px;
+    ion-col {
+        text-align: end;
+    }
+    .button-style{
+        width: 104px;
+        height: 44px;
+        background-color: transparent;
+        border-radius: 24px;
+        border: solid 1px rgba(13, 78, 98, 0.24);
+        color: #0D4E62;
+        margin-left: 12px;
+        font-weight: 700;
+        font-size: 15px;
+        letter-spacing: 1.25px;
+        font-family: 'Roboto';
+    }
+    .selected-button-style{
+        width: 140px;
+        height: 44px;
+        background-color: #0D4E62;
+        border-radius: 24px;
+        border: none;
+        color: #FFFFFF;
+        text-align: center;
+        ion-icon{
+            font-size: 20px;
+            padding-top: 10px;
+        }
+        span{
+            margin-left: 5px;
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 1.25px;
+            position: relative;
+            top: -5px;
+            font-family: 'Roboto';
+        }
+    }
+}

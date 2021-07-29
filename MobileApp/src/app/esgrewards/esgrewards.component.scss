@@ -1,0 +1,162 @@
+.reward-details{
+    padding:0;
+    margin:0;
+    background-color: #F6F6F5;
+    .header-style{       
+        background: linear-gradient(180deg, #0D4E62 0%, #479907 100%);
+        padding:20px 10px 15px 30px;
+        color: #FFFFFF;
+        img{
+            position: relative;
+            top: -22px;
+            opacity: 30%;
+        }
+        .align-right{
+            text-align: center;
+        }
+        .icon-title{
+            font-size: 17px;
+            font-weight: 700;
+        }
+        .close-icon{
+            font-size: 26px;
+            text-align: end;
+        }       
+    }
+
+    .point-row{
+        height: 47px;
+        .point-head{
+            height: 95px;
+            background: #EEFFE1;
+            border: 1px solid #BAED92;
+            border-radius: 48px 0px;
+            margin: 10px;
+            position: relative;
+            top: -75px;
+           .circle-leaf{
+               img{
+                margin-left: 5px;
+               }
+           }
+            .point-col{
+                padding: 15px 0px;
+                .score-info{
+                    font-weight: 300;
+                    font-size: 14px;
+                    line-height: 24px;
+                    letter-spacing: 0.25px;
+                    color: rgba(13, 78, 98, 1);
+                    font-family: 'Roboto';
+                }
+                .point{
+                    color: #489A07;
+                    font-size: 21px;
+                    font-weight: 800;
+                    font-family: 'Spartan Bold';
+                    line-height: 27px;
+                }
+                .cal{
+                    font-weight: 300;
+                    font-size: 14px;
+                    color: #489A07;
+                    margin-left: 8px;
+                    font-family: 'Roboto';                    
+                    letter-spacing: 0.25px;
+                }
+            }  
+            .star-col{
+                text-align: right;
+                color: rgba(255, 161, 51, 1);
+                margin-top: 10px;
+            }        
+        }
+    }
+    .transaction-header-row{
+        ion-col{
+            font-size: 14px;
+            font-family: 'Poppins';
+            font-weight: 600;
+            margin-left: 20px;
+            color: rgba(0, 0, 0, 0.54);
+        }
+    }
+    .badge-row{
+        margin: 15px;
+        background-color: white;
+        border-radius: 10px;
+        padding: 15px 85px 10px 10px;
+        font-family: 'Roboto';
+        font-size: 12px;
+        font-weight: 300;
+        letter-spacing: .25px;
+        color: rgba(72, 154, 7, 1);
+        text-align: center;
+    }
+    .coupon-row{
+        margin: 15px;
+        padding: 15px 15px 10px 15px;
+        background-color: #EEFFE1;
+        border-radius: 8px;
+        border: 1px solid rgba(186, 237, 146, 1);
+        .coupon-pin-col{
+            margin-right: 3px;
+        }
+        .coupon-data-col{
+            .coupon-title-div{
+                font-family: 'Poppins';
+                font-weight: 600;
+                font-size: 16px;
+                line-height: 22px;
+                color: rgba(0, 0, 0, 0.75);
+            }
+            .coupon-desc-div{
+                font-family: 'Poppins';
+                font-weight: 300;
+                font-size: 12px;
+                line-height: 22px;
+                color: rgba(72, 154, 7, 1);                ;
+            }
+        }
+        .coupon-image-col{
+            padding: 0px 0px 10px 0px;
+        }
+    }
+}
+
+.esgreward-footer{
+    padding: 0px 10px;
+    box-shadow: 10px 16px 50px rgb(0 0 0 / 11%), 0px 1px 18px rgb(0 0 0 / 9%), 0px 3px 5px rgb(0 0 0 / 16%); 
+    .highlighted{
+        width: 105px;
+        height: 34px;
+        background: #0D4E62;
+        border-radius: 16px 0px 16px 16px;
+        text-align: center;
+        padding-top: 9px;
+        span{
+            font-family: "Roboto";
+            font-weight: 700;
+            font-size: 12px;
+            letter-spacing: 1.25px;
+            color: white;
+            margin-left: 7px;
+            top: -4px;
+            position: relative;
+        }
+    }
+    .buttons{
+        text-align: center;
+        padding-top: 9px;
+        span{
+            font-family: "Roboto";
+            font-weight: 700;
+            font-size: 12px;
+            letter-spacing: 1.25px;
+            color: rgba(13, 78, 98, 1);
+            margin-left: 7px;
+            top: -3px;
+            position: relative;
+        }
+    }
+}

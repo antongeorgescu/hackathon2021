@@ -1,0 +1,89 @@
+<ion-content>
+  
+  <ion-grid class="score-details">
+    <ion-row class="header-style">      
+      <ion-col size="3" class="icon-title">FinESG</ion-col>
+      <ion-col size="7" class="align-right"><img src="assets/leaf_score.png"></ion-col>
+      <ion-col class="close-icon"><ion-icon name="close-outline" (click)="closeclick()"></ion-icon></ion-col>
+    </ion-row>
+    <ion-row class="point-row">
+      <ion-col class="point-head">
+        <ion-grid>
+          <ion-row>
+            <ion-col size="3" class="circle-leaf">
+              <img src="assets/Leaf_circle.png">
+            </ion-col>
+            <ion-col class="point-col" size="6">
+              <div class="score-info">Your green score</div>
+              <div class="point" >{{score}} pt<span class="cal">(34 Kcal)</span></div>
+            </ion-col>
+            <ion-col class="star-col">
+              <ion-icon name="star"></ion-icon>
+              <ion-icon name="star-outline"></ion-icon>
+              <ion-icon name="star-outline"></ion-icon></ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+    </ion-row>
+    <ion-row class="earth-title">
+      <ion-col size="2" class="earth-col">
+        <div class="circle"><img src="assets/earth.png"></div>
+      </ion-col>
+      <ion-col size="8">
+        <div class="reduce-footprint">Haley, reduce your footprints</div>
+        <div class="reduce-pgms">with these programs</div>
+      </ion-col>
+    </ion-row>  
+    <ion-row>
+      <ion-col class="program-col">
+        <div class="program-main">
+          <div *ngFor="let item of data" class="program-div">
+            <div class="program-image" (click)="programclick()"><img [src]="item.image"/></div>
+            <div class="program-title">{{item.description}}</div>
+            <div class="program-desc">{{item.type}}</div>
+          </div>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row class="transaction-header-row">
+      <ion-col size="1" class="tran-head-col">
+        <img src="assets/arrow.png">
+      </ion-col>
+      <ion-col class="tran-title">Your most impactful transactions</ion-col>
+    </ion-row>
+    <ion-row class="transaction-data-row">
+      <ion-col>
+        <ion-grid style="padding:0px">
+          <ion-row class="trans-item-row" *ngFor="let item of trandata">
+            <ion-col>
+               <img [src]="item.image"/>
+            </ion-col>
+            <ion-col size="9">
+              <div class="tran-title">{{item.name}}</div>
+              <div class="tran-progress"><ion-progress-bar color="primary" value="0.5"></ion-progress-bar></div>
+            </ion-col>
+            <ion-col  class="forward-style">
+              <ion-icon name="chevron-forward-outline"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+    </ion-row>
+    <ion-row class="emission-header-row">      
+      <ion-col class="tran-title">Your annual emissions equite to:</ion-col>
+    </ion-row>
+    <ion-row class="emission-img-row">
+      <ion-col><img src="assets/emission.png"></ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer class="score-footer">
+  <ion-grid>
+    <ion-row>
+      <ion-col><div class="highlighted"><img src="assets/globe.png"><span>Overview</span></div></ion-col>
+      <ion-col><div class="buttons" (click)="actionclick()"><img src="assets/actions.png"><span>Actions</span></div></ion-col>
+      <ion-col><div class="buttons" (click)="rewardclick()"><img src="assets/reward.png"><span>Rewards</span></div></ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-footer>

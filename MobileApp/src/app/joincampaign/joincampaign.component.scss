@@ -1,0 +1,110 @@
+.join-style{
+    padding:0px;
+    background: rgba(246, 246, 245, 1);
+    .header-row{        
+        background: linear-gradient(180deg, #0D4E62 0%, #479907 100%);
+        height: 155px;
+        padding: 26px 0px 0px 26px;
+        img{
+            position: relative;
+            top: -36px;
+        }
+        .back-icon{
+            font-size: 18px;
+            color: #F0FFE5;
+            margin-top: 5px;
+        }
+        .program-title{
+            color: #F0FFE5;
+            font-size: 18px;
+            margin-left: 10px;
+            font-weight: 700;
+            font-family: 'Poppins';
+            letter-spacing: .1px;
+        }
+    }
+    .program-row{
+      
+        margin: 0px 10px;
+        position: relative;
+        top: -90px;
+        height: 200px;
+    }
+    .program-desc{
+        color: rgba(13, 78, 98, 1);
+        font-size: 24px;
+        font-weight: 500;
+        margin:0px 20px;
+        top: -20px;
+        position: relative;
+        line-height: 31px;
+        letter-spacing: .15px;
+        font-family: 'Roboto Bold';
+        height: 142px;
+    }
+    .program-type{
+        background: #EEFFE1;
+        border-radius: 8px;
+        color: #0D4E62;
+        width: 42px;
+        font-weight: 300;
+        font-size: 10px;
+        line-height: 15px;
+        letter-spacing: .25px;
+        opacity: 0.6;
+        padding: 3px 0px 3px 5px;
+        margin-left: 20px;
+    }
+    .program-detail{
+        color:#0D4E62;
+        margin: 5px 20px;
+        font-family: 'Roboto Bold';
+        font-weight: 500;
+        font-size: 16px;
+        letter-spacing: .15px;
+        line-height: 24px;
+    }
+    .program-content{
+        color:#0D4E62;
+        font-family: 'Roboto';
+        font-size: 14px;
+        letter-spacing: .25px;
+        line-height: 21px;
+        margin: 10px 20px;
+    }
+}
+
+
+.footer-joinstyle{
+    background: rgba(246, 246, 245, 1);
+    .button-style{
+        background-color: #0D4E62;
+        margin: 15px;
+        border-radius: 24px;
+        text-align: center;
+        .dollar-col{
+            margin-left: 5px;
+            .dollar-amount{
+                color: rgba(238, 255, 225, 1);
+                font-size: 16px;
+                font-weight: 700;
+                font-family: 'Roboto';
+                line-height: 24px;
+                letter-spacing: 1.25px;
+            }
+            .donate{
+                color: #FFFFFF;
+                font-size: 12px;
+                font-weight: 300;
+                font-family: 'Roboto Light';
+                line-height : 18px;
+                letter-spacing: .25px; 
+                margin-top: 2px;
+                margin-bottom: 3px;
+            }
+        }
+        img{            
+            padding-top: 15px;
+        }
+    }
+}

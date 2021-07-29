@@ -1,0 +1,69 @@
+<ion-content>
+  
+  <ion-grid class="action-details">
+    <ion-row class="header-style">      
+      <ion-col size="3" class="icon-title">FinESG</ion-col>
+      <ion-col size="7" class="align-right"><img src="assets/leaf_score.png"></ion-col>
+      <ion-col class="close-icon"><ion-icon name="close-outline" (click)="closeclick()"></ion-icon></ion-col>
+    </ion-row>
+    <ion-row class="point-row">
+      <ion-col class="point-head">
+        <ion-grid>
+          <ion-row>
+            <ion-col size="3" class="circle-leaf">
+              <img src="assets/Leaf_circle.png">
+            </ion-col>
+            <ion-col class="point-col" size="6">
+              <div class="score-info">Your green score</div>
+              <div class="point" >{{score}} pt<span class="cal">(34 Kcal)</span></div>
+            </ion-col>
+            <ion-col class="star-col">
+              <ion-icon name="star"></ion-icon>
+              <ion-icon name="star-outline"></ion-icon>
+              <ion-icon name="star-outline"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+    </ion-row>
+    <ion-row class="esg-actions-row">
+      <ion-col size="6" >
+        <div class="tip-div">Discover tips</div>
+        <div class="tip-data-div">to reduce your footprint</div>
+      </ion-col>
+      <ion-col size="5" style="padding: 0px;">
+        <div class="char-div">
+          <img src="assets/charback.png" class="charback">
+          <img src="assets/Character.png" class="character">
+        </div>
+      </ion-col>
+      <ion-col class="forward-icon-col"><ion-icon name="chevron-forward-outline"></ion-icon></ion-col>
+    </ion-row>    
+    <ion-row class="transaction-header-row">     
+      <ion-col>Explore current programs </ion-col>
+    </ion-row>
+    <ion-row class="program-list-row">
+      <ion-col *ngFor="let image of programlist">
+        <img [src]="image">
+      </ion-col>
+    </ion-row>
+    <ion-row class="transaction-header-row">
+      <ion-col>Offers</ion-col>
+    </ion-row>
+    <ion-row class="offers-row">
+      <ion-col>
+        <img src="assets/offers.png">
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer class="esgaction-footer">
+  <ion-grid>
+    <ion-row>
+      <ion-col><div class="buttons" (click)="overviewClick()"><img src="assets/globe_action.png"><span>Overview</span></div></ion-col>
+      <ion-col><div class="highlighted" (click)="actionclick()"><img src="assets/action_highlighted.png"><span>Actions</span></div></ion-col>
+      <ion-col><div class="buttons" (click)="rewardclick()"><img src="assets/reward.png"><span>Rewards</span></div></ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-footer>

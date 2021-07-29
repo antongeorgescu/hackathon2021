@@ -1,5 +1,7 @@
 {
   "name": "finesgmobileapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

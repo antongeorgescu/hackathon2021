@@ -1,0 +1,233 @@
+.score-details{
+    padding:0;
+    margin:0;
+    background-color: #F6F6F5;
+    .header-style{       
+        background: linear-gradient(180deg, #0D4E62 0%, #479907 100%);
+        padding:20px 10px 15px 30px;
+        color: #FFFFFF;
+        img{
+            position: relative;
+            top: -22px;
+            opacity: 30%;
+        }
+        .align-right{
+            text-align: center;
+        }
+        .icon-title{
+            font-size: 17px;
+            font-weight: 700;
+        }
+        .close-icon{
+            font-size: 26px;
+            text-align: end;
+        }       
+    }
+    .point-row{
+        height: 47px;
+        .point-head{
+            height: 95px;
+            background: #EEFFE1;
+            border: 1px solid #BAED92;
+            border-radius: 48px 0px;
+            margin: 10px;
+            position: relative;
+            top: -75px;
+           .circle-leaf{
+               img{
+                margin-left: 5px;
+               }
+           }
+            .point-col{
+                padding: 15px 0px;
+                .score-info{
+                    font-weight: 300;
+                    font-size: 14px;
+                    line-height: 22px;
+                    color: #0D4E62;
+                    font-family: 'Roboto';
+                }
+                .point{
+                    color: #489A07;
+                    font-size: 21px;
+                    font-weight: 800;
+                    font-family: 'Spartan Bold';
+                    line-height: 27px;
+                }
+                .cal{
+                    font-weight: 300;
+                    font-size: 14px;
+                    color: #489A07;
+                    margin-left: 8px;
+                    font-family: 'Roboto';                    
+                    letter-spacing: 0.25px;
+                }
+            } 
+            .star-col{
+                text-align: right;
+                color: rgba(255, 161, 51, 1);
+                margin-top: 10px;
+            }     
+        }
+    }
+    .earth-title{
+        .earth-col{     
+            margin-left: 10px;
+            .circle{
+                width: 50px;
+                padding: 10px 10px 7px 10px;
+                border-radius: 50%;
+                background-color: #FFFFFF;
+            }
+        }
+        .reduce-footprint{
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 22px;
+            color: rgba(0, 0, 0, 0.54);
+            margin-top: 3px;
+            font-family: 'Poppins Bold';
+        }
+        .reduce-pgms{
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 22px;
+            color: rgba(0, 0, 0, 0.54);
+            font-family: 'Poppins';
+        }
+    }
+ 
+    .program-col{
+        margin-left: 5px;
+        .program-main{
+            display: flex;
+            width: 1000px;
+            .program-div{
+                width: 144px;
+                font-family: 'Roboto';
+                .program-image{
+                  
+                }
+                .program-title{
+                    color: #0D4E62;
+                    font-size: 12px;
+                    font-weight: 500;
+                    margin-left: 12px;
+                    line-height: 18px;
+                    letter-spacing: .1px;
+                    font-family: 'Roboto Bold';
+                }
+                .program-desc{
+                    background: #EEFFE1;
+                    border-radius: 8px;
+                    color: #0D4E62;
+                    width: 42px;
+                    font-weight: 300;
+                    font-size: 10px;
+                    line-height: 15px;
+                    letter-spacing: .25px;
+                    opacity: 0.6;
+                    padding: 3px 0px 3px 5px;
+                    margin-left: 10px;
+                }
+            }
+        }       
+    }
+    .transaction-header-row{
+        .tran-head-col{
+            margin:11px 0px 0px 20px;
+            padding: 0px;
+            img{
+                margin-top: 2px;
+            }
+           
+        }
+        .tran-title{
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 22px;
+            font-family: 'Poppins';
+            color: rgba(0, 0, 0, 0.54);
+            margin-top: 15px;
+        }
+    }
+    .emission-header-row{
+        margin:0px 0px 0px 20px;
+        .tran-title{
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 22px;
+            font-family: 'Poppins';
+            color: rgba(0, 0, 0, 0.54);
+        }
+    }
+    .emission-img-row{
+        margin-left: 18px;
+    }
+    .transaction-data-row{
+        .trans-item-row{    
+            margin: 0px 10px 15px 10px;
+            background: #FFFFFF;
+            border-radius: 64px;
+           
+            .tran-title{
+                color: #0D4E62;
+                font-size: 14px;
+                font-weight: 500;
+                font-family: 'Roboto Bold';
+                margin-top: 5px;
+                letter-spacing: .1px;
+            }
+            .tran-progress{
+                color: #489A07;
+                margin-top: 4px;
+               
+            }
+            .forward-style{
+                color: #489A07;
+                font-size: 16px;
+                ion-icon {
+                    padding-top: 10px;
+                    margin-left: 8px;
+                }
+            }
+        }
+    }
+}
+
+.score-footer{
+    padding: 0px 10px;
+    box-shadow: 10px 16px 50px rgb(0 0 0 / 11%), 0px 1px 18px rgb(0 0 0 / 9%), 0px 3px 5px rgb(0 0 0 / 16%); 
+    .highlighted{
+        width: 105px;
+        height: 34px;
+        background: #0D4E62;
+        border-radius: 16px 0px 16px 16px;
+        text-align: center;
+        padding-top: 9px;
+        span{
+            font-family: "Roboto";
+            font-weight: 700;
+            font-size: 12px;
+            letter-spacing: 1.25px;
+            color: white;
+            margin-left: 7px;
+            top: -4px;
+            position: relative;
+        }
+    }
+    .buttons{
+        text-align: center;
+        padding-top: 9px;
+        span{
+            font-family: "Roboto";
+            font-weight: 700;
+            font-size: 12px;
+            letter-spacing: 1.25px;
+            color: rgba(13, 78, 98, 1);
+            margin-left: 7px;
+            top: -3px;
+            position: relative;
+        }
+    }
+}

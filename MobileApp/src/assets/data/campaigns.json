@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Lorem ipsum dolores tatum epsum dolor adipiscing eli",
+        "image":"assets/campaign1.png",
+        "type":"Carbon"
+    },
+    {
+        "description": "Empower the youth of Zambia Through education...",
+        "image":"assets/campaign2.png",
+        "type":"Charity"
+    },
+    {
+        "description": "Lorem ipsum dolores tatum epsum dolor adipiscing eli",
+        "image":"assets/campaign3.png",
+        "type":"Carbon"
+    }
+]
