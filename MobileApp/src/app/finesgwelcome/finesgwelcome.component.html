@@ -1,0 +1,28 @@
+<ion-content class="welcome-style">
+  <ion-grid class="welcome-style-grid">
+    <ion-row>
+      <ion-col class="back-button"><ion-icon name="chevron-back-outline" (click)="backclick()"></ion-icon>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col class="ion-align-self-end"><div class="top-circle"><img src="assets/leaf_score.png"></div></ion-col>
+    </ion-row>
+    <ion-row class="finesg-head">
+      <ion-col>Hi Haley,<br/> want to reduce your footprints on the planet?</ion-col>
+    </ion-row>
+    <ion-row class="finesg-content">
+      <ion-col>Let’s discover your green score and what you can change for the better.</ion-col>
+    </ion-row>
+    <ion-row class="finesg-policy">
+      <ion-col>Read Policy</ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+<ion-footer class="footer-style">
+  <ion-grid>
+    <ion-row>
+      <ion-col size="6" ><input class="button-style" type="button" value="Cancel" (click)="backclick()"></ion-col>
+      <ion-col style="margin-left: 10px;"><div class="selected-button-style" (click)="LaunchEsgScore()"><ion-icon name="checkmark-outline"></ion-icon><span>I Agree</span></div></ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-footer>

@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('/assets/fonts/Poppins-Regular.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Poppins Bold';
+    src: url('/assets/fonts/Poppins-Bold.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    src: url('/assets/fonts/Roboto-Regular.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Roboto Bold';
+    src: url('/assets/fonts/Roboto-Bold.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Roboto Light';
+    src: url('/assets/fonts/Roboto-Light.ttf');
+    font-style: light;
+  }
+
+  @font-face {
+    font-family: 'Spartan';
+    src: url('/assets/fonts/Spartan-Regular.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Spartan Bold';
+    src: url('/assets/fonts/Spartan-ExtraBold.ttf');
+    font-style: normal;
+  }

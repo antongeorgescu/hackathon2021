@@ -1,0 +1,98 @@
+.score-page-style{
+    .score-style-grid{
+        background:linear-gradient(180deg, #0D4E62 0%, #479907 100%);
+        height: 100%;
+        padding: 35px 20px;
+        
+        .score-welcome{
+            color: #FFFFFF;
+            font-size: 24px;
+            font-weight: 780;
+            text-align: center;
+            margin:25px;
+            font-family: 'Poppins';
+        }
+        .center-circle{
+            background: rgba(196, 255, 150, 0.8);            
+            border-radius: 50%;
+            height: 220px;
+            width: 220px;
+            margin:auto;
+           
+            img{
+                top: 46px;
+                left: 30px;
+                position: relative;
+                width: 150px;
+            }
+        }
+
+        .finesg-title{
+            color: #C4FF96;
+            font-size: 50px;
+            font-weight: 700;
+            text-align: center;
+            margin-top: 5px;
+            font-family: 'Poppins';
+        }
+
+        .finesg-cal{
+            color:#C4FF96;
+            font-size: 16px;
+            font-weight: 300; 
+            padding: 0;
+            text-align: center;
+            margin: 0px;
+            font-family: 'Roboto';
+        }
+
+        .finesg-star{
+            color:#489A07;
+            font-size: 19px;
+            font-weight: 600;
+            text-align: center;
+            padding-top: 5px;
+        }
+        .footer-row{
+            bottom: 25px;
+            position: absolute;
+            right: 20px;
+            .outline{    
+                border-radius: 50%;
+                background-color: #ffffff;
+                width: 60px;
+                margin: auto;
+                height: 60px;
+                text-align: center;
+                float: right;
+                ion-icon{
+                    font-size: 32px;
+                    color: #489A07;
+                    margin-top: 12px;
+                }
+            }
+        }
+    }
+}
+
+.footer-style{
+    background-color: transparent;
+    padding-bottom: 12px;
+    .backward-col{
+        text-align: end;
+        left: 20px;
+    }
+    .forward-col{
+        left: 10px;
+    }
+    ion-icon{        
+        font-size: 60px;
+    }
+    .forward{
+        color:#489A07;
+    }
+
+    .backward{
+        color:#489A07;
+    }
+}

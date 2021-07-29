@@ -1,3 +1,90 @@
-<p>
-  home works!
-</p>
+<ion-content>
+  <ion-grid class="grid-style">
+    <!-- Header row -->
+    <ion-row class="header-row">
+      <ion-col class="head-col">
+        <img *ngIf="finesgadopted == 1" src="assets/esgselected.png">
+      </ion-col>    
+    </ion-row>
+    <!-- Blocks area -->
+    <ion-row scrollX="true" class="ion-justify-content-start blocks-row">
+      <ion-col> 
+        <div scrollX="true" class="block-list">         
+          <ion-card *ngFor="let item of accountdata" >
+              <ion-grid>
+                <ion-row>
+                  <ion-col style="padding-right:0px" size="3"><img src="assets/account.png"></ion-col>
+                  <ion-col style="padding:0px">
+                    <div class="main-acct">{{item.acctname}}</div>
+                    <div class="amount">$ {{item.amount}}</div>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>       
+          </ion-card>      
+        
+        </div>
+      </ion-col>
+    </ion-row>
+    <!--Green score-->
+    <ion-row *ngIf="finesgadopted == 0">
+      <ion-col class="green-score-area" (click)="launchesgwelcome()">
+        <ion-grid>
+          <ion-row>
+            <ion-col size="2">
+              <ion-img src="/assets/leaf.png"></ion-img>
+            </ion-col>
+            <ion-col size="8" style="padding: 0px;">
+              <div class="check-lbl">
+                Check your
+              </div>
+              <div class="green-score-lbl">
+                Green score
+              </div>
+            </ion-col>
+            <ion-col size="1">
+              <ion-icon name="chevron-forward-outline"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+    </ion-row>
+    <!-- Transaction details -->
+    <ion-row class="transaction-header-row">
+      <ion-col class="transaction-header">
+        Last transactions
+      </ion-col>
+    </ion-row>
+    <ion-row class="transaction-data-row">
+      <ion-col>
+        <ion-grid>
+          <ion-row class="trans-item-row" *ngFor="let item of data">
+            <ion-col  class="pin-style" size="2" >
+               <ion-img src="/assets/tranicon.png"></ion-img>
+            </ion-col>
+            <ion-col size="6">
+              <div class="tran-desc">{{item.desc}}</div>
+              <div class="tran-id">{{item.id}}</div>
+            </ion-col>
+            <ion-col class="amount-style">
+              <div *ngIf="item.status" class="amount-header green">+ $ {{item.Amount}}</div> 
+              <div *ngIf="!item.status" class="amount-header">$ {{item.Amount}}</div> 
+              <div class="amount-value">{{item.TransTime}}</div>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+<ion-footer>
+    <ion-grid>
+      <ion-row class="footer-icon">
+        <ion-col><div class="home"><div><ion-icon name="home-outline"></ion-icon></div><div>Home</div></div> </ion-col>
+        <ion-col> <div><img class="transfer" src="assets/vector.png"></div><div>Transfer</div></ion-col>
+        <ion-col> <div><ion-icon name="card-outline"></ion-icon></div><div>Cards</div></ion-col>
+        <ion-col> <div><img class="face" src="assets/face.png"></div><div>Advise</div></ion-col>
+      </ion-row>
+    
+    </ion-grid>
+   
+</ion-footer>
