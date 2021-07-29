@@ -66,6 +66,10 @@ app.get('/greenpoints/aggregates', function (req, res) {
   const fs = require('fs');
   const jsonQuery = require('json-query');
 
+  const dollarPerPoint = 1.23;
+  const carbonTonePerPoint = 0.00763;
+  const charitySpentPerc = 0.08;
+
   // get all customer data
   let rawdata = fs.readFileSync('./data/FinTrxData_Customer.json');
   let users = JSON.parse(rawdata);  
@@ -111,12 +115,33 @@ app.get('/greenpoints/aggregates', function (req, res) {
   
   avgPoints = average(points);
   sumPoints = sum(points);
+  sumDollars = sumPoints * dollarPerPoint;
+  charitySpent = sumDollars * charitySpentPerc;
+  carbonTonnes = sumPoints * carbonTonePerPoint;
   console.log(avgPoints);
   console.log(sumPoints);
-  res.send({SumPoints : sumPoints.toString(), AveragePoints: avgPoints.toString(), MinPoints: minPoints.toString(), MaxPoints: maxPoints.toString()});
+  res.send({
+    SumPoints : sumPoints.toString(), 
+    SumDollars: sumDollars.toString(), 
+    CarbonTonnes: carbonTonnes.toString(),
+    CharitySpent: charitySpent.toString(),
+    AveragePoints: avgPoints.toString(), 
+    MinPoints: minPoints.toString(), 
+    MaxPoints: maxPoints.toString()
+  });
 })
 
-var server = app.listen(process.env.PORT || 3003, function () {
+app.get('/greenpoints/upsell', function (req, res) {
+  const loanCustomers = 223;
+  const loanSum = loanCustomers * 8700;
+
+  res.send({
+    LoanCustomers : loanCustomers.toString(), 
+    LoanSum: loanSum.toString()
+  });
+})
+
+var server = app.listen(process.env.PORT || 3001, function () {
   var host = server.address().address
   var port = server.address().port
   console.log('App listening at http://%s:%s', host, port)
