@@ -62,7 +62,61 @@ app.get('/customers/:name', function (req, res) {
   res.send({Customer : lookupname, AccountNumber: accountNo, GreenPoints : (Math.round(sumPoints)).toString()});
 })
 
-var server = app.listen(process.env.PORT || 3001, function () {
+app.get('/greenpoints/aggregates', function (req, res) {
+  const fs = require('fs');
+  const jsonQuery = require('json-query');
+
+  // get all customer data
+  let rawdata = fs.readFileSync('./data/FinTrxData_Customer.json');
+  let users = JSON.parse(rawdata);  
+
+  let rawdata2 = fs.readFileSync('./data/FinTrxData_Transactions.json');
+  let trxs = JSON.parse(rawdata2);
+
+  points = [];  
+  users.forEach (user => {
+    var dataAccounts = {
+      userdata : users
+    }
+    let selected = jsonQuery(`userdata[Name=${user.Name}].AccountNumber`, {
+      data: dataAccounts
+    });
+    console.log(selected.value);
+    var accountNo = selected.value;
+    
+    // get list of transactions for this account
+    var dataTrxs = {
+      trxdata : trxs
+    }
+    selected = jsonQuery(`trxdata[**][*AccountNumber=${accountNo}]`, {
+      data: dataTrxs
+    })
+    console.log(selected.value);
+    var customertrxs = selected.value;
+
+    // get the sum of green points for all transactions
+    let userPoints = 0.0;
+    customertrxs.forEach(trx => {
+      userPoints += 0.1 * trx.Purchase_Amount * trx.GreenPoints;
+    });
+    points.push(userPoints);
+  })
+  maxPoints = Math.max.apply(Math, points);
+  minPoints = Math.min.apply(Math, points);
+  console.log(minPoints);
+  console.log(maxPoints);
+  
+  const average = arr => arr.reduce( ( p, c ) => p + c, 0 ) / arr.length;
+  const sum = arr => arr.reduce( ( p, c ) => p + c, 0 );
+  
+  avgPoints = average(points);
+  sumPoints = sum(points);
+  console.log(avgPoints);
+  console.log(sumPoints);
+  res.send({SumPoints : sumPoints.toString(), AveragePoints: avgPoints.toString(), MinPoints: minPoints.toString(), MaxPoints: maxPoints.toString()});
+})
+
+var server = app.listen(process.env.PORT || 3003, function () {
   var host = server.address().address
   var port = server.address().port
   console.log('App listening at http://%s:%s', host, port)
