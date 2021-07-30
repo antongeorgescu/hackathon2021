@@ -23,6 +23,7 @@ app.get('/customers', function (req, res) {
 })
 
 app.get('/customers/:name', function (req, res) {
+  res.header("Access-Control-Allow-Origin", "*");
   const fs = require('fs');
   const jsonQuery = require('json-query');
 

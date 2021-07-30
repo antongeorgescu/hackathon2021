@@ -1,1 +1,169 @@
-<p>home works!</p>
+<div class="main-div" fxLayout="row">
+    <div class="first-col">
+        <div fxLayout="row" class="header-row">
+            <div class="logo-div"><img src="assets/leaf.png"></div>
+            <div class="head-title-col">
+                <div class="head-title">FINESG</div>
+                <div class="dashboard-title">DASHBOARD</div>
+            </div>
+        </div>
+        <div class="menu-row">
+            <div class="menu-selected">
+                <span class="material-icons">dashboard</span>
+                <span class="menu-text">Dashboard</span> 
+            </div>
+            <div class="menu">
+                <span class="material-icons">show_chart</span>
+                <span class="menu-text">Activity</span> 
+            </div>
+            <div class="menu">
+                <span class="material-icons-outlined">settings</span>
+                <span class="menu-text">Settings</span> 
+            </div>
+        </div>
+        <div class="bottom-row">
+            <img src="assets/leaf-menu.png">
+        </div>
+    </div>
+    <div class="second-div">
+        <div class="user-name-div">Hi Andrei,</div>
+        <div class="welcome-div" fxLayout="row">
+            <div class="welcome-text">FinESG Dashboard</div>
+            <div class="search-box-div"></div>
+        </div>
+        <div class="content-div">
+            <div class="head-row" fxLayout="row">
+                <div class="box-1" fxLayout="row">
+                    <img class="box-img-1" src="assets/head1.png">
+                    <div class="box-text-row">
+                        <div class="box-text-title">Clients</div>
+                        <div class="box-text-value">20,342</div>
+                    </div>
+                    <img class="box-img-2" src="assets/Graph1.png">
+                </div>
+
+                <div class="box-1 margin-style" fxLayout="row">
+                    <img class="box-img-1" src="assets/head2.png">
+                    <div class="box-text-row">
+                        <div fxLayout="row">
+                            <div class="box-text-title">Charity Spend</div>
+                            <div class="box-percent-div">+5%</div>
+                        </div>
+                        <div class="box-text-value">$13,568,114</div>
+                    </div>
+                </div>
+
+                <div class="box-1 margin-style" fxLayout="row">
+                    <img class="box-img-1" src="assets/head3.png">
+                    <div class="box-text-row">
+                        <div fxLayout="row">
+                            <div class="box-text-title">Green Loans</div>
+                            <div class="box-percent-div">+5%</div>
+                        </div>
+                        <div fxLayout="row">
+                            <div class="box-text-value">1,241</div>
+                            <div class="box-amount-value">$6,825,500</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-1 margin-style highlighted" fxLayout="row">                    
+                    <div class="box-text-row">
+                        <div class="box-text-title">Green Points</div>
+                        <div fxLayout="row">
+                            <div class="box-text-value">80k+</div>
+                            <div class="box-amount-value">$98,093</div>
+                        </div>
+                    </div>
+                    <img class="box-img-2" src="assets/head4.png">
+                </div>
+            </div>
+            <div class="center-row" fxLayout="row">
+                <div class="carbon-row">
+                    <div fxLayout="row">
+                        <div class="carbon-title">Carbon CO2</div>
+                        <div class="track-div">
+                            <span class="material-icons">check_circle</span>
+                            <span class="track-lbl">On track</span>
+                        </div>
+                        <div class="time-dropdown">
+                            <select>
+                                <option>Monthly</option>
+                                <option>Weekly</option>
+                                <option>Yearly</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="details-row" fxLayout="row">
+                        <div class="box-div">
+                            <div class="box-title">Saves</div>
+                            <div class="box-value">10% of Carbon</div>
+                        </div>
+                        <div class="box-div">
+                            <div class="box-title">Carbon CO2 (tonne)</div>
+                            <div fxLayout="row">
+                                <div class="box-value">856,434</div>
+                                <div class="percent-div">-4.75%</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chart-row">
+                        <img src="assets/Chart.png">
+                    </div>
+                </div>
+               
+                <div class="scorers-row">
+                    <div class="scorer-title">Top Green Scorers</div>
+                    <div class="score-data">
+                        <div class="score-content-div" *ngFor="let data of scoredetails" fxLayout="row">
+                            <div class="avatar-div"><img [src]="data.avatar"></div>
+                            <div class="data-div">
+                                <div class="name-div">{{data.name}}</div>
+                                <div class="active-div">{{data.active}}</div>
+                            </div>
+                            <div class="point-div">{{data.points}}</div>
+                        </div>
+                    </div>
+                    <div class="viewall-div">View all 
+                        <span class="material-icons">east</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-row" fxLayout="row">
+                <div class="energy-row">
+                    <div class="head-row" fxLayout="row">
+                        <div>
+                            <div class="title">Saved Carbon</div>
+                            <div class="value">25,215</div>
+                        </div>
+                        <div class="icon-col" fxLayout="column">
+                            <span class="material-icons">more_horiz</span>
+                            <img src="assets/energygraph.png">
+                        </div>
+                    </div>
+                    <div class="carbon-desc">Area where Carbon  Saved</div>
+                    <div class="energy-details-row">
+                        <div class="energy-tran-row" fxLayout="row" *ngFor="let data of energylist">
+                            <div class="image-col"><img [src]="data.image"></div>
+                            <div class="title-col">
+                                <div class="title">{{data.name}}</div>
+                                <div class="value">{{data.value}}(CO2)</div>
+                            </div>
+                            <div class="percent-div">{{data.percent}}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rewards-row">
+                    <div class="reward-title">Items Rewarded</div>
+                    <div class="reward-section" fxLayout="row">
+                        <div class="reward-list"><img src="assets/rewards.png"></div>                        
+                        <div class="banner-div"><img src="assets/banner.png"></div>
+                    </div>
+                    <div class="viewall-div">View all 
+                        <span class="material-icons">east</span>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>

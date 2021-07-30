@@ -30,6 +30,9 @@ export class HomeComponent implements OnInit, ViewDidEnter {
    
   }
 
+  public launchesgscore():void{
+    this.router.navigate(['esgscoredetails']);
+  }
   ionViewDidEnter(){
     this.finesgadopted = localStorage.getItem("finesgadopted");
     console.log(this.finesgadopted);

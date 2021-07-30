@@ -1,0 +1,434 @@
+.main-div{    
+    background-color: #F4F7FE;
+    .first-col{
+        background-color: #ffffff;
+        width: 20%;
+        .header-row{
+            padding: 20px 30px;
+            border-bottom: 1px solid #F4F7FE;
+            .logo-div{               
+              
+            }
+            .head-title-col{
+                margin-left: 10px;
+                margin-top: 10px;
+                .head-title{
+                    font-weight: 800;
+                    font-size: 26px;
+                    color: rgba(80, 45, 255, 1);
+                    font-family: 'Poppins Bold';
+                    line-height: 24px;
+                }
+                .dashboard-title{
+                    color: rgba(67, 24, 255, 1);
+                    font-weight: 600;
+                    font-size: 12px;
+                    font-family: 'Poppins';
+                }
+            }
+        }
+        .menu-row{
+            padding: 30px;
+            .menu{
+                padding-top: 25px;
+                .material-icons{                    
+                    color:rgba(163, 174, 208, 1);
+                   margin-right:9px;
+                }
+                .material-icons-outlined{
+                    color:rgba(163, 174, 208, 1);
+                    margin-right:9px;
+                }
+                .menu-text{
+                    color:rgba(163, 174, 208, 1);
+                    font-family: 'DM Sans';
+                    font-weight: 400;
+                    font-size: 16px;
+                    vertical-align: top;
+                    line-height: 24px;
+                }
+            }
+            .menu-selected   {
+                .material-icons{                    
+                    color:#4F2BFF;
+                   margin-right:9px;
+                }
+                .menu-text{
+                    color: #1B2559;
+                    font-family: 'DM Sans';
+                    font-weight: 700;
+                    font-size: 16px;
+                    vertical-align: top;
+                    line-height: 24px;
+                }
+            }
+        }
+        .bottom-row{
+            position: absolute;
+            bottom: 30px;
+        }
+    }
+    .second-div{
+        width: 80%;
+        height: 100%;
+        padding:30px 40px;
+        .user-name-div{
+            font-family: 'DM Sans Bold';
+            color: #707EAE;
+            font-size: 14px;
+        }
+
+        .welcome-div{
+            .welcome-text{
+                font-family: 'DM Sans';
+                color: #2B3674;
+                font-size: 34px;
+                font-weight: 700;
+                letter-spacing: -2%;
+            }
+        }
+        .content-div{
+            padding-top: 20px;
+            .head-row{
+                .box-1{
+                    width: 290px;
+                    height: 94px;
+                    padding:20px;
+                    border-radius: 20px;
+                    background-color: #ffffff;
+                    .box-img-1{
+                        width: 56px;
+                        height: 54px;
+                    }
+                    .box-img-2{
+                        width: 80px;
+                        height: 40px;
+                        margin-left: 20px;
+                    }
+                    .box-text-row{
+                        padding: 5px 0px 5px 15px;
+                        .box-text-title{
+                            color: #A3AED0;
+                            font-family: 'DM Sans Bold';
+                            font-size: 14px;
+                        }
+                        .box-text-value{
+                            color: #1B2559;
+                            font-family: 'DM Sans Bold';
+                            font-size: 18px;
+                        }
+                        .box-percent-div{
+                            border-radius: 58px;
+                            background-color: rgba(5, 205, 153, 0.1);
+                            color: rgba(5, 205, 153, 1);
+                            font-family: 'DM Sans';
+                            font-size: 12px;
+                            font-weight: 700;
+                            margin-left: 45px;
+                            padding: 0px 5px;
+                        }
+                        .box-amount-value{
+                            color: #A3AED0;
+                            font-family: 'DM Sans';
+                            font-size: 14px;
+                            margin:4px 0px 0px 6px;
+                        }
+                    }
+                }
+
+               .highlighted{
+                    background: linear-gradient(180deg, #8681FF 0%, #4821FF 85.94%);
+                    color: #E9EDF7;
+                    .box-text-row{
+                        padding: 5px 0px 5px 5px;
+                        .box-text-value{
+                           color: #FFFFFF;
+                           opacity: 70%;
+                           font-size: 22px;
+                        }  
+                        .box-text-title{
+                            color:rgba(233, 237, 247, 1);
+                        }    
+                        .box-amount-value{
+                            color:rgba(233, 237, 247, 1);
+                            margin-left: 15px;
+                            margin-top: 7px;
+                        }                 
+                    }
+                    .box-img-2{
+                         width: 50px;
+                         height: 50px;   
+
+                         margin-left: 80px;
+                    }
+                }
+                .margin-style{
+                    margin-left: 50px;
+                }               
+            }
+
+            .center-row{
+                margin-top: 25px;     
+                .carbon-row{
+                    border-radius: 20px;
+                    background-color: #ffffff;
+                    width: 780px;
+                    padding: 20px 40px;      
+                    .carbon-title{
+                        color: #1B2559;
+                        font-size: 24px;
+                        font-family: 'DM Sans Bold';
+                        line-height: 32px;
+                        width: 20%;
+                    } 
+                    .track-div{
+                        width:30%;
+                        color: #05CD99;
+                        margin-left: 30px;
+                        .material-icons{
+                            margin: 5px;
+                            font-size: 22px;
+                        }
+                        .track-lbl{
+                            font-size: 16px;
+                            font-family: 'DM Sans Bold';
+                            vertical-align: super;
+                        }
+                    }
+                    .time-dropdown{
+                        width: 50%;
+                        text-align: end;
+                        select{
+                            border: none;
+                            color: #A3AED0;
+                            font-size: 14px;
+                            font-family: 'DM Sans Bold';
+                            width: 95px;
+                        }
+                    }    
+                    .details-row{
+                        margin-top: 30px;
+                        .box-div{
+                            margin-left: 30px;
+                            box-shadow: 0px 10px 30px rgb(112 144 176 / 12%); 
+                            padding:15px 30px;
+                            width :36%;
+                            border-radius: 8px;
+                            font-family: 'DM Sans';
+                            .box-title{
+                                color: #A3AED0;
+                                font-size: 12px;
+                                font-weight: 500;
+                                line-height: 20px;
+                            }
+                            .box-value{
+                                color: #1B2559;
+                                font-size: 24px;
+                                font-weight: 700;
+                                line-height: 32px;
+                            }
+                            .percent-div{
+                                border-radius: 58px;
+                                background-color: rgba(227, 26, 26, 0.1);
+                                color: #e31a1a;
+                                font-family: "DM Sans";
+                                font-size: 12px;
+                                font-weight: 700;
+                                margin-left: 25px;
+                                height: 15px;
+                                width: 43px;
+                                padding: 4px;
+                                margin-top: 4px;
+                            }
+                        }
+                    }
+                    .chart-row{
+                        img{
+                            width: 100%;
+                            margin-top: 25px;
+                        }
+                    }    
+                }
+                .scorers-row{
+                    border-radius: 20px;
+                    background-color: #ffffff;
+                    width: 350px;
+                    padding:20px 40px;
+                    margin-left: 20px;
+                    .scorer-title{
+                        color: #1B2559;
+                        font-family: 'DM Sans';
+                        font-weight: 700;
+                        font-size: 20px;
+                        line-height: 32px;
+                    }
+                    .score-data{
+                        margin-top: 25px;
+                        height: 70%;
+                        .score-content-div{
+                            margin-bottom: 20px;
+                            font-family: 'DM Sans';
+                            .avatar-div{
+
+                            }
+                            .data-div{
+                                width: 70%;
+                                margin-left: 20px;
+                                .name-div{
+                                    color: #1B2559;
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                }
+                                .active-div{
+                                    color: #A3AED0;
+                                    font-size: 12px;
+                                    font-weight: 500;
+                                    line-height: 20px;
+                                }
+                            }
+                            .point-div{
+                                border-radius: 7px;
+                                background-color: rgba(5, 205, 153, 0.1);
+                                color: #05cd99;
+                                font-size: 12px;
+                                font-weight: 700;
+                                margin-left: 45px;
+                                padding: 8px 15px;
+                                width: 47px;
+                                height: 15px;
+                            }
+                        }
+                        
+                    }
+                    .viewall-div{
+                        color: #4318FF;
+                        font-size: 15px;
+                        font-weight: 700;
+                        text-align: end;
+                        font-family: 'DM Sans';
+                        .material-icons{
+                            vertical-align: top;
+                            margin-left: 5px;
+                        }
+                    }
+                }
+            }
+
+            .footer-row{
+                margin-top: 25px;
+                .energy-row{
+                    padding:30px;
+                    border-radius: 20px;
+                    background-color: #ffffff;
+                    width: 26%;
+                    .head-row{
+                        background: linear-gradient(180deg, #8681FF 0%, #4821FF 85.94%);
+                        border-radius: 17px;
+                        padding: 10px 25px;
+                        font-family: 'DM Sans';
+                        .title{
+                            color: rgba(233, 237, 247, 1);
+                            font-size: 12px;
+                            font-weight: 500;
+                            line-height: 16px;
+                        }
+                        .value{
+                            color: rgba(255, 255, 255, 1);
+                            font-size: 34px;
+                            font-weight: 700;
+                        }
+                        .icon-col{
+                            text-align: end;
+                            width: 70%;
+                            align-items: flex-end;
+                            .material-icons{
+                                color: #ffffff;
+
+                            }
+                            img{
+                                float: right;
+                                width: 55px;
+                                margin-top: 10px;
+                            }
+                        }
+                    }
+                    .carbon-desc{
+                        color: rgba(163, 174, 208, 1);
+                        font-weight: 500;
+                        font-family: 'Dm Sans';
+                        font-size: 12px;
+                        margin-top: 10px;
+                    }
+                    .energy-details-row{
+                        margin-top: 15px;
+                        .energy-tran-row{
+                            margin-bottom: 20px;
+                            .image-col{
+                                width: 20%;
+                                img{
+                                    margin-right: 15px;
+                                }
+                            }
+                            .title-col{
+                                width: 70%;
+                                .title{
+                                    color: #1B2559;
+                                    font-family: 'DM Sans Bold';
+                                    font-size: 14px;
+                                    line-height: 24px;
+                                }
+                                .value{
+                                    color: #A3AED0;
+                                    font-family: 'DM Sans';
+                                    font-size: 12px;
+                                }
+                            }
+                            .percent-div{
+                               
+                                color: #1B2559; 
+                                font-family: 'DM Sans Bold';
+                                font-size: 14px;
+                                text-align: end;
+                            }
+                        }
+                    }
+                }
+                .rewards-row{
+                    padding:30px 0px 30px 30px;
+                    border-radius: 20px;
+                    background-color: #ffffff;
+                    width: 56%;
+                    margin-left: 25px;
+                    .reward-title{
+                        color: #1B2559;
+                        font-family: 'DM Sans Bold';
+                        font-size: 20px;
+                    }
+                    .reward-section{
+                        margin-top: 30px;
+                        .reward-list{
+                            width: 50%;
+                            margin-top: 32px;
+                            img{width: 75%;}
+                        }
+                        .banner-div{
+                            width: 50%;
+                            text-align: end;
+                        }
+                    }
+                    .viewall-div{
+                        color: #4318FF;
+                        font-size: 15px;
+                        font-weight: 700;
+                        text-align: center;
+                        font-family: 'DM Sans';
+                        .material-icons{
+                            vertical-align: top;
+                            margin-left: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
