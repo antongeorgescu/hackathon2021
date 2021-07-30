@@ -86,6 +86,28 @@
                 font-weight: 700;
                 letter-spacing: -2%;
             }
+            .search-box-div{                            
+                text-align: end;
+                width: 67%;
+                margin-left: 40px;
+                input{
+                    border: none;
+                    border-radius: 6px;
+                    height: 45px;
+                    width: 330px;
+                    font-family: 'DM Sans';
+                    font-size: 12px;
+                    font-weight: 400;
+                    padding-left: 32px;
+                }
+                span{
+                    color: rgba(27, 37, 89, 1);
+                    opacity: .7;
+                    position: relative;
+                    top: 9px;
+                    left: 29px;
+                }
+            }
         }
         .content-div{
             padding-top: 20px;
